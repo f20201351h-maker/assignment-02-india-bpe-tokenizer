@@ -1,0 +1,13 @@
+== B-ur langs=['en', 'hi', 'te', 'ur'] cfg={"alpha_min":30,"akshara":true,"akshara_min":300} eval_w=300.0 ext_w=1.0
+  B-ur-001 en=1.6263 hi=1.6287 te=1.1537 ur=1.3807 spread=0.47499 score=2105.3 akv=0 chk=ok  mult={'en': 0.85, 'hi': 0.47, 'te': 2.1, 'ur': 0.9}
+  B-ur-002 en=1.3695 hi=1.3664 te=2.2104 ur=1.4203 spread=0.84392 score=1184.9 akv=0 chk=ok  mult={'en': 1.72, 'hi': 0.959, 'te': 0.797, 'ur': 0.761}
+  B-ur-003 en=1.4285 hi=1.4954 te=1.6351 ur=1.5542 spread=0.20668 score=4838.4 akv=0 chk=ok  mult={'en': 1.256, 'hi': 0.696, 'te': 1.94, 'ur': 0.589}
+  B-ur-004 en=1.6259 hi=1.5442 te=1.1358 ur=1.5376 spread=0.49019 score=2040.0 akv=0 chk=ok  mult={'en': 0.955, 'hi': 0.681, 'te': 2.354, 'ur': 0.653}
+  B-ur-005 en=1.4296 hi=1.5089 te=1.6816 ur=1.4283 spread=0.25333 score=3947.4 akv=0 chk=ok  mult={'en': 1.143, 'hi': 0.647, 'te': 1.771, 'ur': 0.764}
+  B-ur-006 en=1.4463 hi=1.5174 te=1.6070 ur=1.4739 spread=0.16073 score=6221.6 akv=0 chk=ok  mult={'en': 1.091, 'hi': 0.671, 'te': 1.97, 'ur': 0.693}
+  B-ur-007 en=1.5583 hi=1.4981 te=1.3685 ur=1.4951 spread=0.18982 score=5268.2 akv=0 chk=ok  mult={'en': 1.019, 'hi': 0.689, 'te': 2.135, 'ur': 0.667}
+  B-ur-008 en=1.4895 hi=1.4888 te=1.5397 ur=1.4828 spread=0.05696 score=17556.5 akv=0 chk=ok  mult={'en': 1.064, 'hi': 0.69, 'te': 2.016, 'ur': 0.675}
+  B-ur-009 en=1.5005 hi=1.4957 te=1.5022 ur=1.4945 spread=0.00769 score=129996.3 akv=0 chk=ok  mult={'en': 1.063, 'hi': 0.687, 'te': 2.055, 'ur': 0.666}
+  B-ur-010 en=1.4996 hi=1.4974 te=1.5014 ur=1.4963 spread=0.00516 score=193947.8 akv=0 chk=ok  mult={'en': 1.065, 'hi': 0.687, 'te': 2.06, 'ur': 0.664}
+  BEST B-ur-011 en=1.4996 hi=1.4974 te=1.5014 ur=1.4963 spread=0.00516 score=193947.8 akv=0 chk=ok | heldout en=2.086 hi=1.987 te=2.624 ur=1.939
+== DONE B-ur mult={"en": 1.0646944878197429, "hi": 0.6865471263585254, "te": 2.059859113474832, "ur": 0.6641514473149503}

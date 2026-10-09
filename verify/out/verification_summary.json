@@ -1,0 +1,331 @@
+{
+ "tokenizer": "tokenizer/tokenizer.json",
+ "tokenizer_sha256": "45aa8369f867472f8686b48025354fbfc0d9b53d6f7573d021aaaac815179dc4",
+ "languages": [
+  "en",
+  "hi",
+  "te",
+  "ur"
+ ],
+ "fertility": {
+  "en": 1.4814941740918437,
+  "hi": 1.4817393428606327,
+  "te": 1.481451284141867,
+  "ur": 1.4819277108433735
+ },
+ "fertility_exact": {
+  "en": "17292/11672",
+  "hi": "12131/8187",
+  "te": "3634/2453",
+  "ur": "5166/3486"
+ },
+ "tokens": {
+  "en": 17292,
+  "hi": 12131,
+  "te": 3634,
+  "ur": 5166
+ },
+ "words": {
+  "en": 11672,
+  "hi": 8187,
+  "te": 2453,
+  "ur": 3486
+ },
+ "min_lang": "te",
+ "max_lang": "ur",
+ "spread": 0.0004764267015063925,
+ "spread_exact": "97/203599",
+ "score": 2098958.762886598,
+ "score_exact": "203599000/97",
+ "score_decimal": "2098958.762886597938",
+ "all_pass": true,
+ "checks": [
+  {
+   "check": "vocabulary size is exactly 10,000 (Python)",
+   "pass": true,
+   "detail": "10000"
+  },
+  {
+   "check": "vocabulary size is exactly 10,000 (JS)",
+   "pass": true,
+   "detail": "10000"
+  },
+  {
+   "check": "no added tokens outside the BPE vocabulary",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "token ids are 0..9999 with no gaps",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "every merge refers to tokens in the vocabulary",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "model type is BPE",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "no post-processor adds extra tokens",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "both verifiers read the same tokenizer file",
+   "pass": true,
+   "detail": "45aa8369f867472f8686b48025354fbfc0d9b53d6f7573d021aaaac815179dc4"
+  },
+  {
+   "check": "en: evaluation text matches pinned hash",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "en: evaluation file bytes match pinned file hash (sha256sum)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "en: same token count with the final newline kept, and line by line",
+   "pass": true,
+   "detail": "17292 / 17292 / 17292"
+  },
+  {
+   "check": "en: word count agrees (split / regex / JS)",
+   "pass": true,
+   "detail": "11672 / 11672 / 11672"
+  },
+  {
+   "check": "en: token count agrees (HF Python / independent JS)",
+   "pass": true,
+   "detail": "17292 / 17292"
+  },
+  {
+   "check": "en: no <unk> tokens",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "en: decode(encode(text)) is lossless",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "en: NFD input gives identical tokens",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "en: deterministic encoding",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "en: no token boundary inside a grapheme cluster (ICU)",
+   "pass": true,
+   "detail": "0"
+  },
+  {
+   "check": "en: no token starts with a combining mark or joiner",
+   "pass": true,
+   "detail": "0"
+  },
+  {
+   "check": "hi: evaluation text matches pinned hash",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "hi: evaluation file bytes match pinned file hash (sha256sum)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "hi: same token count with the final newline kept, and line by line",
+   "pass": true,
+   "detail": "12131 / 12131 / 12131"
+  },
+  {
+   "check": "hi: word count agrees (split / regex / JS)",
+   "pass": true,
+   "detail": "8187 / 8187 / 8187"
+  },
+  {
+   "check": "hi: token count agrees (HF Python / independent JS)",
+   "pass": true,
+   "detail": "12131 / 12131"
+  },
+  {
+   "check": "hi: no <unk> tokens",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "hi: decode(encode(text)) is lossless",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "hi: NFD input gives identical tokens",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "hi: deterministic encoding",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "hi: no token boundary inside a grapheme cluster (ICU)",
+   "pass": true,
+   "detail": "0"
+  },
+  {
+   "check": "hi: no token starts with a combining mark or joiner",
+   "pass": true,
+   "detail": "0"
+  },
+  {
+   "check": "te: evaluation text matches pinned hash",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "te: evaluation file bytes match pinned file hash (sha256sum)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "te: same token count with the final newline kept, and line by line",
+   "pass": true,
+   "detail": "3634 / 3634 / 3634"
+  },
+  {
+   "check": "te: word count agrees (split / regex / JS)",
+   "pass": true,
+   "detail": "2453 / 2453 / 2453"
+  },
+  {
+   "check": "te: token count agrees (HF Python / independent JS)",
+   "pass": true,
+   "detail": "3634 / 3634"
+  },
+  {
+   "check": "te: no <unk> tokens",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "te: decode(encode(text)) is lossless",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "te: NFD input gives identical tokens",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "te: deterministic encoding",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "te: no token boundary inside a grapheme cluster (ICU)",
+   "pass": true,
+   "detail": "0"
+  },
+  {
+   "check": "te: no token starts with a combining mark or joiner",
+   "pass": true,
+   "detail": "0"
+  },
+  {
+   "check": "ur: evaluation text matches pinned hash",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "ur: evaluation file bytes match pinned file hash (sha256sum)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "ur: same token count with the final newline kept, and line by line",
+   "pass": true,
+   "detail": "5166 / 5166 / 5166"
+  },
+  {
+   "check": "ur: word count agrees (split / regex / JS)",
+   "pass": true,
+   "detail": "3486 / 3486 / 3486"
+  },
+  {
+   "check": "ur: token count agrees (HF Python / independent JS)",
+   "pass": true,
+   "detail": "5166 / 5166"
+  },
+  {
+   "check": "ur: no <unk> tokens",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "ur: decode(encode(text)) is lossless",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "ur: NFD input gives identical tokens",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "ur: deterministic encoding",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "ur: no token boundary inside a grapheme cluster (ICU)",
+   "pass": true,
+   "detail": "0"
+  },
+  {
+   "check": "ur: no token starts with a combining mark or joiner",
+   "pass": true,
+   "detail": "0"
+  },
+  {
+   "check": "min/max languages agree",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "spread agrees (exact fraction vs JS float)",
+   "pass": true,
+   "detail": "97/203599 = 0.0004764267015063925"
+  },
+  {
+   "check": "score agrees",
+   "pass": true,
+   "detail": "2098958.762886598"
+  },
+  {
+   "check": "Unicode test strings round-trip with joiners preserved",
+   "pass": true,
+   "detail": ""
+  }
+ ],
+ "versions": {
+  "python": "3.14.4",
+  "tokenizers": "0.23.1",
+  "python_unicode": "16.0.0",
+  "node": "v22.15.0",
+  "node_icu_unicode": "16.0"
+ }
+}

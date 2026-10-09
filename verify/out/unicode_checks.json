@@ -1,0 +1,137 @@
+{
+ "cases": [
+  {
+   "case": "Devanagari conjunct क्ष",
+   "input": "क्ष",
+   "tokens": [
+    "▁",
+    "क्ष"
+   ],
+   "roundtrip": true,
+   "joiners_preserved": true,
+   "nfd_same_tokens": true,
+   "unk": 0
+  },
+  {
+   "case": "क्ष with ZWJ (half form)",
+   "input": "क्‍ष",
+   "tokens": [
+    "▁",
+    "क्",
+    "‍",
+    "ष"
+   ],
+   "roundtrip": true,
+   "joiners_preserved": true,
+   "nfd_same_tokens": true,
+   "unk": 0
+  },
+  {
+   "case": "क्ष with ZWNJ (explicit halant)",
+   "input": "क्‌ष",
+   "tokens": [
+    "▁",
+    "क्",
+    "‌",
+    "ष"
+   ],
+   "roundtrip": true,
+   "joiners_preserved": true,
+   "nfd_same_tokens": true,
+   "unk": 0
+  },
+  {
+   "case": "Hindi word with conjunct",
+   "input": "शक्ति",
+   "tokens": [
+    "▁शक्ति"
+   ],
+   "roundtrip": true,
+   "joiners_preserved": true,
+   "nfd_same_tokens": true,
+   "unk": 0
+  },
+  {
+   "case": "Telugu name with ZWNJ",
+   "input": "జవహర్‌లాల్ నెహ్రూ",
+   "tokens": [
+    "▁జవహర్‌లాల్",
+    "▁నెహ్రూ"
+   ],
+   "roundtrip": true,
+   "joiners_preserved": true,
+   "nfd_same_tokens": true,
+   "unk": 0
+  },
+  {
+   "case": "Telugu conjunct cluster",
+   "input": "స్వాతంత్ర్యం",
+   "tokens": [
+    "▁స్వాతంత్ర్యం"
+   ],
+   "roundtrip": true,
+   "joiners_preserved": true,
+   "nfd_same_tokens": true,
+   "unk": 0
+  },
+  {
+   "case": "Telugu anusvara word",
+   "input": "భారతదేశం",
+   "tokens": [
+    "▁భారతదేశం"
+   ],
+   "roundtrip": true,
+   "joiners_preserved": true,
+   "nfd_same_tokens": true,
+   "unk": 0
+  },
+  {
+   "case": "Hindi nukta letter (precomposed ज़, NFC decomposes it)",
+   "input": "ज़रा",
+   "tokens": [
+    "▁",
+    "ज़",
+    "रा"
+   ],
+   "roundtrip": true,
+   "joiners_preserved": true,
+   "nfd_same_tokens": true,
+   "unk": 0
+  },
+  {
+   "case": "Urdu with diacritic",
+   "input": "بھارَت",
+   "tokens": [
+    "▁بھ",
+    "ا",
+    "رَ",
+    "ت"
+   ],
+   "roundtrip": true,
+   "joiners_preserved": true,
+   "nfd_same_tokens": true,
+   "unk": 0
+  },
+  {
+   "case": "Mixed scripts",
+   "input": "India भारत భారత بھارت 1947",
+   "tokens": [
+    "▁India",
+    "▁भारत",
+    "▁భారత",
+    "▁بھارت",
+    "▁1947"
+   ],
+   "roundtrip": true,
+   "joiners_preserved": true,
+   "nfd_same_tokens": true,
+   "unk": 0
+  }
+ ],
+ "tokens_starting_with_mark_or_joiner": {
+  "en": 0,
+  "hi": 0,
+  "te": 0,
+  "ur": 0
+ }
+}

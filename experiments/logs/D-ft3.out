@@ -1,0 +1,11 @@
+start D-ft3-001 en=1.4819 hi=1.4803 te=1.4819 ur=1.4819 spread=0.00165 score=604556.0 akv=0 chk=ok
+  D-ft3-002 en=1.4817 hi=1.4743 te=1.4900 ur=1.4831 spread=0.01572 score=63598.2 akv=0 chk=ok sigma=0.01
+  D-ft3-003 en=1.4928 hi=1.4780 te=1.4586 ur=1.4831 spread=0.03418 score=29255.9 akv=0 chk=ok sigma=0.01
+  D-ft3-004 en=1.4615 hi=1.4909 te=1.5137 ur=1.4888 spread=0.05212 score=19184.7 akv=0 chk=ok sigma=0.01
+  D-ft3-005 en=1.4827 hi=1.4816 te=1.4766 ur=1.4857 spread=0.00910 score=109919.1 akv=0 chk=ok sigma=0.006
+  D-ft3-006 en=1.4789 hi=1.4811 te=1.4851 ur=1.4885 spread=0.00960 score=104149.2 akv=0 chk=ok sigma=0.006
+  D-ft3-007 en=1.4832 hi=1.4692 te=1.4957 ur=1.4739 spread=0.02656 score=37649.0 akv=0 chk=ok sigma=0.006
+  D-ft3-008 en=1.4824 hi=1.4854 te=1.4737 ur=1.4828 spread=0.01170 score=85484.5 akv=0 chk=ok sigma=0.0036
+  D-ft3-009 en=1.4837 hi=1.4786 te=1.4823 ur=1.4768 spread=0.00696 score=143729.2 akv=0 chk=ok sigma=0.0036
+  D-ft3-010 en=1.4915 hi=1.4864 te=1.4525 ur=1.4857 spread=0.03901 score=25633.8 akv=0 chk=ok sigma=0.0036
+  D-ft3-011 en=1.4780 hi=1.4872 te=1.4823 ur=1.4831 spread=0.00925 score=108057.1 akv=0 chk=ok sigma=0.00216

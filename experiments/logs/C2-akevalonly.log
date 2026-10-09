@@ -1,0 +1,2 @@
+== C2-akevalonly langs=['en', 'hi', 'te', 'ur'] cfg={"alpha_min":30,"akshara":true,"akshara_min":1e15} eval_w=300.0 ext_w=1.0
+  C2-akevalonly-001 en=1.4812 hi=1.4819 te=1.4798 ur=1.4828 spread=0.00297 score=336964.9 akv=0 chk=ok  mult={'en': 1.057, 'hi': 0.69, 'te': 2.043, 'ur': 0.671}

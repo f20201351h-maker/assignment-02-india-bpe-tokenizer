@@ -1,0 +1,13 @@
+== B-pa langs=['en', 'hi', 'te', 'pa'] cfg={"alpha_min":30,"akshara":true,"akshara_min":300} eval_w=300.0 ext_w=1.0
+  B-pa-001 en=1.6273 hi=1.6347 te=1.3885 pa=1.4894 spread=0.24616 score=4062.4 akv=0 chk=ok  mult={'en': 0.85, 'hi': 0.47, 'te': 2.1, 'pa': 1.0}
+  B-pa-002 en=1.4284 hi=1.4854 te=1.8850 pa=1.5404 spread=0.45666 score=2189.8 akv=0 chk=ok  mult={'en': 1.228, 'hi': 0.695, 'te': 1.301, 'pa': 0.9}
+  B-pa-003 en=1.5809 hi=1.5562 te=1.5165 pa=1.5367 spread=0.06437 score=15535.9 akv=0 chk=ok  mult={'en': 0.961, 'hi': 0.585, 'te': 1.999, 'pa': 0.891}
+  B-pa-004 en=1.5415 hi=1.5517 te=1.6005 pa=1.5452 spread=0.05902 score=16942.7 akv=0 chk=ok  mult={'en': 1.008, 'hi': 0.595, 'te': 1.923, 'pa': 0.867}
+  B-pa-005 en=1.5596 hi=1.5570 te=1.5512 pa=1.5541 spread=0.00847 score=118091.1 akv=0 chk=ok  mult={'en': 1.0, 'hi': 0.591, 'te': 1.993, 'pa': 0.85}
+  B-pa-006 en=1.5568 hi=1.5554 te=1.5548 pa=1.5556 spread=0.00197 score=507154.7 akv=0 chk=ok  mult={'en': 1.002, 'hi': 0.592, 'te': 1.988, 'pa': 0.848}
+  B-pa-007 en=1.5566 hi=1.5554 te=1.5561 pa=1.5556 spread=0.00124 score=807390.2 akv=0 chk=ok  mult={'en': 1.003, 'hi': 0.592, 'te': 1.987, 'pa': 0.848}
+  B-pa-008 en=1.5563 hi=1.5561 te=1.5556 pa=1.5558 spread=0.00064 score=1556647.4 akv=0 chk=ok  mult={'en': 1.004, 'hi': 0.592, 'te': 1.988, 'pa': 0.847}
+  B-pa-009 en=1.5560 hi=1.5565 te=1.5561 pa=1.5554 spread=0.00113 score=885403.2 akv=0 chk=ok  mult={'en': 1.004, 'hi': 0.592, 'te': 1.988, 'pa': 0.847}
+  B-pa-010 en=1.5560 hi=1.5555 te=1.5565 pa=1.5562 spread=0.00095 score=1056373.2 akv=0 chk=ok  mult={'en': 1.004, 'hi': 0.592, 'te': 1.988, 'pa': 0.846}
+  BEST B-pa-011 en=1.5563 hi=1.5561 te=1.5556 pa=1.5558 spread=0.00064 score=1556647.4 akv=0 chk=ok | heldout en=2.097 hi=2.026 te=2.634 pa=2.030
+== DONE B-pa mult={"en": 1.0036604312095085, "hi": 0.5915511070802979, "te": 1.9879349797743473, "pa": 0.8472639931314272}

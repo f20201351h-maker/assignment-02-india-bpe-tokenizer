@@ -1,0 +1,13 @@
+== C2-akfew-ew500 langs=['en', 'hi', 'te', 'ur'] cfg={"alpha_min":30,"akshara":true,"akshara_min":3000} eval_w=500.0 ext_w=1.0
+  C2-akfew-ew500-001 en=1.4345 hi=1.4828 te=1.4945 ur=1.5155 spread=0.08095 score=12353.9 akv=0 chk=ok  mult={'en': 1.057, 'hi': 0.69, 'te': 2.043, 'ur': 0.671}
+  C2-akfew-ew500-002 en=1.6400 hi=1.4941 te=1.0183 ur=1.4713 spread=0.62165 score=1608.6 akv=0 chk=ok  mult={'en': 0.89, 'hi': 0.693, 'te': 2.14, 'ur': 0.757}
+  C2-akfew-ew500-003 en=1.5278 hi=1.4794 te=1.2960 ur=1.4811 spread=0.23179 score=4314.2 akv=0 chk=ok  mult={'en': 1.017, 'hi': 0.684, 'te': 2.068, 'ur': 0.695}
+  C2-akfew-ew500-004 en=1.4785 hi=1.4793 te=1.4081 ur=1.4900 spread=0.08189 score=12211.8 akv=0 chk=ok  mult={'en': 1.035, 'hi': 0.685, 'te': 2.05, 'ur': 0.688}
+  C2-akfew-ew500-005 en=1.4440 hi=1.4849 te=1.4721 ur=1.5115 spread=0.06751 score=14813.5 akv=0 chk=ok  mult={'en': 1.052, 'hi': 0.689, 'te': 2.049, 'ur': 0.673}
+  C2-akfew-ew500-006 en=1.4488 hi=1.4748 te=1.4753 ur=1.5052 spread=0.05640 score=17731.4 akv=0 chk=ok  mult={'en': 1.048, 'hi': 0.692, 'te': 2.04, 'ur': 0.676}
+  C2-akfew-ew500-007 en=1.4532 hi=1.4718 te=1.4709 ur=1.4991 spread=0.04592 score=21777.9 akv=0 chk=ok  mult={'en': 1.045, 'hi': 0.692, 'te': 2.039, 'ur': 0.679}
+  C2-akfew-ew500-008 en=1.4564 hi=1.4693 te=1.4680 ur=1.4954 spread=0.03902 score=25628.6 akv=0 chk=ok  mult={'en': 1.043, 'hi': 0.692, 'te': 2.036, 'ur': 0.681}
+  C2-akfew-ew500-009 en=1.4586 hi=1.4668 te=1.4676 ur=1.4917 spread=0.03306 score=30246.1 akv=0 chk=ok  mult={'en': 1.04, 'hi': 0.691, 'te': 2.032, 'ur': 0.684}
+  C2-akfew-ew500-010 en=1.4610 hi=1.4635 te=1.4688 ur=1.4859 spread=0.02493 score=40118.8 akv=0 chk=ok  mult={'en': 1.037, 'hi': 0.691, 'te': 2.028, 'ur': 0.689}
+  BEST C2-akfew-ew500-011 en=1.4610 hi=1.4635 te=1.4688 ur=1.4859 spread=0.02493 score=40118.8 akv=0 chk=ok | heldout en=2.100 hi=2.007 te=2.819 ur=1.978
+== DONE C2-akfew-ew500 mult={"en": 1.0369237005120517, "hi": 0.6905884467383914, "te": 2.027539790571689, "ur": 0.6887545873202844}

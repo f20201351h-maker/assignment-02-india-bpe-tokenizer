@@ -1,0 +1,16 @@
+== B-mr langs=['en', 'hi', 'te', 'mr'] cfg={"alpha_min":30,"akshara":true,"akshara_min":300} eval_w=300.0 ext_w=1.0
+  B-mr-001 en=1.5841 hi=1.5142 te=1.6429 mr=1.5507 spread=0.12866 score=7772.6 akv=0 chk=ok  mult={'en': 0.94, 'hi': 0.43, 'te': 1.84, 'mr': 1.35}
+  B-mr-002 en=1.6252 hi=1.6214 te=1.4252 mr=1.5908 spread=0.19998 score=5000.6 akv=0 chk=ok  mult={'en': 0.977, 'hi': 0.351, 'te': 2.323, 'mr': 1.253}
+  B-mr-003 en=1.4811 hi=1.5891 te=1.7574 mr=1.5831 spread=0.27637 score=3618.3 akv=0 chk=ok  mult={'en': 1.147, 'hi': 0.378, 'te': 1.824, 'mr': 1.265}
+  B-mr-004 en=1.5959 hi=1.5799 te=1.5320 mr=1.5780 spread=0.06387 score=15657.1 akv=0 chk=ok  mult={'en': 0.991, 'hi': 0.379, 'te': 2.106, 'mr': 1.265}
+  B-mr-005 en=1.5770 hi=1.5729 te=1.5797 mr=1.5769 spread=0.00684 score=146222.0 akv=0 chk=ok  mult={'en': 1.012, 'hi': 0.382, 'te': 2.038, 'mr': 1.268}
+  B-mr-006 en=1.5769 hi=1.5746 te=1.5785 mr=1.5771 spread=0.00391 score=256023.1 akv=0 chk=ok  mult={'en': 1.013, 'hi': 0.381, 'te': 2.043, 'mr': 1.269}
+  B-mr-007 en=1.5773 hi=1.5749 te=1.5781 mr=1.5773 spread=0.00313 score=319305.4 akv=0 chk=ok  mult={'en': 1.014, 'hi': 0.379, 'te': 2.046, 'mr': 1.27}
+  B-mr-008 en=1.5779 hi=1.5764 te=1.5752 mr=1.5771 spread=0.00266 score=375282.3 akv=0 chk=ok  mult={'en': 1.015, 'hi': 0.378, 'te': 2.051, 'mr': 1.272}
+== B-mr langs=['en', 'hi', 'te', 'mr'] cfg={"alpha_min":30,"akshara":true,"akshara_min":300} eval_w=300.0 ext_w=1.0
+  B-mr-009 en=1.5779 hi=1.5762 te=1.5756 mr=1.5769 spread=0.00226 score=443066.7 akv=0 chk=ok  mult={'en': 1.015, 'hi': 0.378, 'te': 2.051, 'mr': 1.272}
+  B-mr-010 en=1.5744 hi=1.5780 te=1.5830 mr=1.5769 spread=0.00859 score=116365.2 akv=0 chk=ok  mult={'en': 1.019, 'hi': 0.377, 'te': 2.044, 'mr': 1.273}
+  B-mr-011 en=1.5781 hi=1.5762 te=1.5756 mr=1.5771 spread=0.00251 score=397769.0 akv=0 chk=ok  mult={'en': 1.015, 'hi': 0.378, 'te': 2.054, 'mr': 1.27}
+  B-mr-012 en=1.5775 hi=1.5773 te=1.5756 mr=1.5773 spread=0.00183 score=546860.3 akv=0 chk=ok  mult={'en': 1.016, 'hi': 0.377, 'te': 2.052, 'mr': 1.272}
+  BEST B-mr-013 en=1.5775 hi=1.5773 te=1.5756 mr=1.5773 spread=0.00183 score=546860.3 akv=0 chk=ok | heldout en=2.112 hi=1.937 te=2.639 mr=2.426
+== DONE B-mr mult={"en": 1.0164165018759568, "hi": 0.37714962016267584, "te": 2.051532042813626, "mr": 1.2715584064148941}

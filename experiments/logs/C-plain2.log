@@ -1,0 +1,15 @@
+== C-plain2 langs=['en', 'hi', 'te', 'ur'] cfg={"alpha_min":30,"akshara":false} eval_w=300.0 ext_w=1.0
+  C-plain2-001 en=1.4315 hi=1.4567 te=1.5381 ur=1.4205 spread=0.11758 score=8505.0 akv=1618 chk=ok  mult={'en': 1.021, 'hi': 0.793, 'te': 1.852, 'ur': 0.75}
+  C-plain2-002 en=1.6231 hi=1.4787 te=1.0000 ur=1.5184 spread=0.62312 score=1604.8 akv=1254 chk=ok  mult={'en': 0.889, 'hi': 0.758, 'te': 2.366, 'ur': 0.627}
+  C-plain2-003 en=1.4332 hi=1.4611 te=1.5128 ur=1.4340 spread=0.07967 score=12552.1 akv=1608 chk=ok  mult={'en': 0.987, 'hi': 0.774, 'te': 1.857, 'ur': 0.705}
+  C-plain2-004 en=1.4554 hi=1.4595 te=1.4619 ur=1.4383 spread=0.02356 score=42447.2 akv=1549 chk=ok  mult={'en': 0.981, 'hi': 0.779, 'te': 1.891, 'ur': 0.692}
+  C-plain2-005 en=1.4560 hi=1.4582 te=1.4590 ur=1.4449 spread=0.01411 score=70885.7 akv=1546 chk=ok  mult={'en': 0.985, 'hi': 0.788, 'te': 1.902, 'ur': 0.677}
+  C-plain2-006 en=1.4586 hi=1.4549 te=1.4529 ur=1.4521 spread=0.00652 score=153260.8 akv=1531 chk=ok  mult={'en': 0.988, 'hi': 0.798, 'te': 1.91, 'ur': 0.664}
+  C-plain2-007 en=1.4534 hi=1.4547 te=1.4623 ur=1.4535 spread=0.00890 score=112380.5 akv=1540 chk=ok  mult={'en': 0.991, 'hi': 0.8, 'te': 1.91, 'ur': 0.661}
+  C-plain2-008 en=1.4562 hi=1.4547 te=1.4578 ur=1.4521 spread=0.00571 score=175049.3 akv=1534 chk=ok  mult={'en': 0.99, 'hi': 0.799, 'te': 1.91, 'ur': 0.662}
+  C-plain2-009 en=1.4553 hi=1.4560 te=1.4566 ur=1.4535 spread=0.00306 score=327292.0 akv=1537 chk=ok  mult={'en': 0.991, 'hi': 0.799, 'te': 1.914, 'ur': 0.66}
+  C-plain2-010 en=1.4568 hi=1.4545 te=1.4545 ur=1.4550 spread=0.00232 score=431275.9 akv=1534 chk=ok  mult={'en': 0.99, 'hi': 0.8, 'te': 1.915, 'ur': 0.659}
+  C-plain2-011 en=1.4545 hi=1.4556 te=1.4570 ur=1.4550 spread=0.00248 score=402426.2 akv=1535 chk=ok  mult={'en': 0.992, 'hi': 0.8, 'te': 1.914, 'ur': 0.659}
+  C-plain2-012 en=1.4557 hi=1.4550 te=1.4566 ur=1.4550 spread=0.00162 score=616877.7 akv=1534 chk=ok  mult={'en': 0.991, 'hi': 0.8, 'te': 1.914, 'ur': 0.659}
+  BEST C-plain2-013 en=1.4557 hi=1.4550 te=1.4566 ur=1.4550 spread=0.00162 score=616877.7 akv=1534 chk=ok | heldout en=2.084 hi=1.980 te=2.640 ur=1.921
+== DONE C-plain2 mult={"en": 0.9909572618677545, "hi": 0.8001160648560073, "te": 1.9143483357527553, "ur": 0.6588265918284382}

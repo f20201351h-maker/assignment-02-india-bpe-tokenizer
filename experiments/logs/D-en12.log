@@ -1,0 +1,15 @@
+== D-en12 langs=['en', 'hi', 'te', 'ur'] cfg={"alpha_min":30,"akshara":true,"akshara_min":3000} eval_w=300.0 ext_w=1.0
+  D-en12-001 en=1.2545 hi=1.7652 te=2.0656 ur=1.8095 spread=0.81118 score=1232.8 akv=0 chk=ok  mult={'en': 4.23, 'hi': 0.69, 'te': 2.043, 'ur': 0.671}
+  D-en12-002 en=1.2461 hi=2.0180 te=1.8748 ur=2.0528 spread=0.80664 score=1239.7 akv=0 chk=ok  mult={'en': 3.572, 'hi': 0.333, 'te': 2.278, 'ur': 0.369}
+  D-en12-003 en=1.2127 hi=2.0706 te=2.0567 ur=2.0666 spread=0.85787 score=1165.7 akv=0 chk=ok  mult={'en': 3.986, 'hi': 0.332, 'te': 1.91, 'ur': 0.395}
+  D-en12-004 en=1.2042 hi=2.0876 te=2.1060 ur=2.0829 spread=0.90174 score=1109.0 akv=0 chk=ok  mult={'en': 4.102, 'hi': 0.332, 'te': 1.873, 'ur': 0.391}
+  D-en12-005 en=1.2083 hi=2.0784 te=2.0823 ur=2.0720 spread=0.87407 score=1144.1 akv=0 chk=ok  mult={'en': 4.037, 'hi': 0.333, 'te': 1.895, 'ur': 0.393}
+  D-en12-006 en=1.2056 hi=2.0851 te=2.0974 ur=2.0829 spread=0.89181 score=1121.3 akv=0 chk=ok  mult={'en': 4.085, 'hi': 0.332, 'te': 1.889, 'ur': 0.391}
+  D-en12-007 en=1.2066 hi=2.0826 te=2.0921 ur=2.0760 spread=0.88548 score=1129.3 akv=0 chk=ok  mult={'en': 4.063, 'hi': 0.332, 'te': 1.892, 'ur': 0.392}
+  D-en12-008 en=1.2073 hi=2.0799 te=2.0889 ur=2.0740 spread=0.88154 score=1134.4 akv=0 chk=ok  mult={'en': 4.052, 'hi': 0.332, 'te': 1.893, 'ur': 0.392}
+  D-en12-009 en=1.2077 hi=2.0799 te=2.0856 ur=2.0740 spread=0.87793 score=1139.0 akv=0 chk=ok  mult={'en': 4.044, 'hi': 0.332, 'te': 1.894, 'ur': 0.393}
+  D-en12-010 en=1.2080 hi=2.0784 te=2.0844 ur=2.0740 spread=0.87637 score=1141.1 akv=0 chk=ok  mult={'en': 4.041, 'hi': 0.333, 'te': 1.895, 'ur': 0.393}
+  D-en12-011 en=1.2078 hi=2.0799 te=2.0852 ur=2.0740 spread=0.87744 score=1139.7 akv=0 chk=ok  mult={'en': 4.046, 'hi': 0.332, 'te': 1.894, 'ur': 0.393}
+  D-en12-012 en=1.2079 hi=2.0784 te=2.0840 ur=2.0740 spread=0.87605 score=1141.5 akv=0 chk=ok  mult={'en': 4.043, 'hi': 0.332, 'te': 1.894, 'ur': 0.393}
+  BEST D-en12-013 en=1.2079 hi=2.0784 te=2.0840 ur=2.0740 spread=0.87605 score=1141.5 akv=0 chk=ok | heldout en=1.883 hi=2.399 te=3.026 ur=2.353
+== DONE D-en12 mult={"en": 4.043175783600142, "hi": 0.33246057119722205, "te": 1.894415804299836, "ur": 0.3927009227077375}

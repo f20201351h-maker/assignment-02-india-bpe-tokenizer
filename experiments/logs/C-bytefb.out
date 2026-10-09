@@ -1,0 +1,13 @@
+== C-bytefb langs=['en', 'hi', 'te', 'ur'] cfg={"alpha_min":30,"akshara":true,"akshara_min":300,"byte_fallback":true} eval_w=300.0 ext_w=1.0
+  C-bytefb-001 en=1.5218 hi=1.5082 te=1.5349 ur=1.5009 spread=0.03399 score=29416.4 akv=0 chk={'vocab_is_10000': True, 'no_unk_on_eval': True, 'roundtrip_eval': False}  mult={'en': 1.065, 'hi': 0.686, 'te': 2.06, 'ur': 0.664}
+  C-bytefb-002 en=1.5392 hi=1.5400 te=1.4423 ur=1.5390 spread=0.09769 score=10236.8 akv=0 chk={'vocab_is_10000': True, 'no_unk_on_eval': True, 'roundtrip_eval': False}  mult={'en': 1.085, 'hi': 0.667, 'te': 2.197, 'ur': 0.629}
+  C-bytefb-003 en=1.5171 hi=1.5152 te=1.5308 ur=1.5120 spread=0.01873 score=53389.0 akv=0 chk={'vocab_is_10000': True, 'no_unk_on_eval': True, 'roundtrip_eval': False}  mult={'en': 1.075, 'hi': 0.683, 'te': 2.078, 'ur': 0.655}
+  C-bytefb-004 en=1.5227 hi=1.5157 te=1.5177 ur=1.5146 spread=0.00807 score=123855.0 akv=0 chk={'vocab_is_10000': True, 'no_unk_on_eval': True, 'roundtrip_eval': False}  mult={'en': 1.073, 'hi': 0.683, 'te': 2.092, 'ur': 0.652}
+  C-bytefb-005 en=1.5201 hi=1.5174 te=1.5210 ur=1.5169 spread=0.00407 score=245708.8 akv=0 chk={'vocab_is_10000': True, 'no_unk_on_eval': True, 'roundtrip_eval': False}  mult={'en': 1.076, 'hi': 0.682, 'te': 2.093, 'ur': 0.651}
+  C-bytefb-006 en=1.5209 hi=1.5180 te=1.5181 ur=1.5152 spread=0.00570 score=175406.1 akv=0 chk={'vocab_is_10000': True, 'no_unk_on_eval': True, 'roundtrip_eval': False}  mult={'en': 1.077, 'hi': 0.682, 'te': 2.096, 'ur': 0.65}
+  C-bytefb-007 en=1.5210 hi=1.5185 te=1.5185 ur=1.5152 spread=0.00579 score=172809.1 akv=0 chk={'vocab_is_10000': True, 'no_unk_on_eval': True, 'roundtrip_eval': False}  mult={'en': 1.076, 'hi': 0.682, 'te': 2.095, 'ur': 0.65}
+  C-bytefb-008 en=1.5196 hi=1.5181 te=1.5214 ur=1.5152 spread=0.00620 score=161324.3 akv=0 chk={'vocab_is_10000': True, 'no_unk_on_eval': True, 'roundtrip_eval': False}  mult={'en': 1.076, 'hi': 0.682, 'te': 2.094, 'ur': 0.65}
+  C-bytefb-009 en=1.5200 hi=1.5181 te=1.5206 ur=1.5152 spread=0.00538 score=185757.4 akv=0 chk={'vocab_is_10000': True, 'no_unk_on_eval': True, 'roundtrip_eval': False}  mult={'en': 1.076, 'hi': 0.682, 'te': 2.094, 'ur': 0.651}
+  C-bytefb-010 en=1.5200 hi=1.5178 te=1.5206 ur=1.5169 spread=0.00366 score=273060.4 akv=0 chk={'vocab_is_10000': True, 'no_unk_on_eval': True, 'roundtrip_eval': False}  mult={'en': 1.076, 'hi': 0.682, 'te': 2.093, 'ur': 0.651}
+  BEST C-bytefb-011 en=1.5200 hi=1.5178 te=1.5206 ur=1.5169 spread=0.00366 score=273060.4 akv=0 chk={'vocab_is_10000': True, 'no_unk_on_eval': True, 'roundtrip_eval': False} | heldout en=2.090 hi=1.994 te=2.633 ur=1.954
+== DONE C-bytefb mult={"en": 1.075812942642229, "hi": 0.6823704736943809, "te": 2.09346255275246, "ur": 0.6506955128666492}

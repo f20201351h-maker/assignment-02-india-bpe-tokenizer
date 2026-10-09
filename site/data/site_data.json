@@ -1,0 +1,2480 @@
+{
+ "title_langs": "English, Hindi, Telugu and Urdu",
+ "langs": [
+  "en",
+  "hi",
+  "te",
+  "ur"
+ ],
+ "lang_meta": {
+  "en": {
+   "name": "English",
+   "native": "English",
+   "dir": "ltr",
+   "bcp47": "en"
+  },
+  "hi": {
+   "name": "Hindi",
+   "native": "हिन्दी",
+   "dir": "ltr",
+   "bcp47": "hi"
+  },
+  "te": {
+   "name": "Telugu",
+   "native": "తెలుగు",
+   "dir": "ltr",
+   "bcp47": "te"
+  },
+  "ur": {
+   "name": "Urdu",
+   "native": "اردو",
+   "dir": "rtl",
+   "bcp47": "ur"
+  }
+ },
+ "final": {
+  "vocab_size": 10000,
+  "composition": {
+   "special": 1,
+   "characters": 365,
+   "akshara": 1406,
+   "learned": 8228
+  },
+  "per_lang": {
+   "en": {
+    "title": "India",
+    "project": "en.wikipedia.org",
+    "revid": 1377830907,
+    "rev_timestamp": "2026-10-01T10:56:29Z",
+    "retrieved_utc": "2026-10-01T11:37:30+00:00",
+    "permanent_url": "https://en.wikipedia.org/w/index.php?oldid=1377830907",
+    "url": "https://en.wikipedia.org/wiki/India",
+    "clean_text_sha256": "7f4ff0cc01f70301f793fdbf5e475435303264416f3fee4d82b2e7f2a1f55513",
+    "file_sha256": "f441d78e4e5108bc26cbaee289404c9267d27b19ca05f8d88665a03367b3dfe6",
+    "eval_file": "data/eval/en.txt",
+    "words": 11672,
+    "tokens": 17292,
+    "fertility": 1.4814941740918437,
+    "fertility_exact": "17292/11672",
+    "heldout_fertility": 2.0846681541176864,
+    "heldout_words": 60058,
+    "akshara_violations": 0,
+    "example": {
+     "text": "India, officially the Republic of India, is a country in South Asia.",
+     "tokens": [
+      "▁India,",
+      "▁officially",
+      "▁the",
+      "▁Republic",
+      "▁of",
+      "▁India,",
+      "▁is",
+      "▁a",
+      "▁country",
+      "▁in",
+      "▁South",
+      "▁Asia."
+     ]
+    }
+   },
+   "hi": {
+    "title": "भारत",
+    "project": "hi.wikipedia.org",
+    "revid": 6622959,
+    "rev_timestamp": "2026-10-01T06:56:37Z",
+    "retrieved_utc": "2026-10-01T11:37:32+00:00",
+    "permanent_url": "https://hi.wikipedia.org/w/index.php?oldid=6622959",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4",
+    "clean_text_sha256": "e4efcc3f96a0c95208c28b6a3654c5dd8feb2c055cb8ac05dfce7f96829fa269",
+    "file_sha256": "e0ef653be4563baa9403c28ad9c8fd00ec9b099411798f302bb56b4a90b1c105",
+    "eval_file": "data/eval/hi.txt",
+    "words": 8187,
+    "tokens": 12131,
+    "fertility": 1.4817393428606327,
+    "fertility_exact": "12131/8187",
+    "heldout_fertility": 1.9826915468811817,
+    "heldout_words": 60664,
+    "akshara_violations": 0,
+    "example": {
+     "text": "भारत (आधिकारिक नाम: भारत गणराज्य, अंग्रेज़ी: Republic of India, लिप्यन्तरण: रिपब्लिक् ऑफ़् इण्डिया) दक्षिण एशिया में स्थित भारतीय",
+     "tokens": [
+      "▁भारत",
+      "▁(",
+      "आ",
+      "धि",
+      "कारिक",
+      "▁नाम",
+      ":",
+      "▁भारत",
+      "▁गणराज्य",
+      ",",
+      "▁अंग्रेज़ी",
+      ":",
+      "▁Republic",
+      "▁of",
+      "▁India,",
+      "▁लि",
+      "प्य",
+      "न्त",
+      "रण",
+      ":",
+      "▁रि",
+      "प",
+      "ब्लि",
+      "क्",
+      "▁ऑ",
+      "फ़्",
+      "▁इण्डिया",
+      ")",
+      "▁दक्षिण",
+      "▁एशिया",
+      "▁में",
+      "▁स्थित",
+      "▁भारतीय"
+     ]
+    }
+   },
+   "te": {
+    "title": "భారతదేశం",
+    "project": "te.wikipedia.org",
+    "revid": 4848340,
+    "rev_timestamp": "2026-05-29T11:32:49Z",
+    "retrieved_utc": "2026-10-01T11:37:36+00:00",
+    "permanent_url": "https://te.wikipedia.org/w/index.php?oldid=4848340",
+    "url": "https://te.wikipedia.org/wiki/%E0%B0%AD%E0%B0%BE%E0%B0%B0%E0%B0%A4%E0%B0%A6%E0%B1%87%E0%B0%B6%E0%B0%82",
+    "clean_text_sha256": "597358778abc5261f257adacd2c2293418ba37b2a19322efdf5f82b5a14c696d",
+    "file_sha256": "bdc6200753fac3281d269b8d37aba5ab71dd37ee188f5291a7f5a7e026985027",
+    "eval_file": "data/eval/te.txt",
+    "words": 2453,
+    "tokens": 3634,
+    "fertility": 1.481451284141867,
+    "fertility_exact": "3634/2453",
+    "heldout_fertility": 2.740176890917268,
+    "heldout_words": 60037,
+    "akshara_violations": 0,
+    "example": {
+     "text": "భారతదేశం 142 కోట్లకు పైగా జనాభాతో ప్రపంచంలో మొదటి స్థానంలో, 32,87,263 చ.కి.మీ విస్తీర్ణంతో వైశాల్యంలో ఏడవస్థానంలో ఉన్న అతి పెద్ద స్వేచ్ఛాయుత ప్రజాస్వామ్య",
+     "tokens": [
+      "▁భారతదేశం",
+      "▁142",
+      "▁కోట్ల",
+      "కు",
+      "▁పైగా",
+      "▁జనాభాతో",
+      "▁ప్రపంచంలో",
+      "▁మొదటి",
+      "▁స్థానంలో",
+      ",",
+      "▁3",
+      "2,",
+      "8",
+      "7,",
+      "2",
+      "63",
+      "▁చ.కి.మీ",
+      "▁విస్తీర్ణం",
+      "తో",
+      "▁వైశాల్యంలో",
+      "▁ఏడవ",
+      "స్థానంలో",
+      "▁ఉన్న",
+      "▁అతి",
+      "▁పెద్ద",
+      "▁స్వే",
+      "చ్ఛా",
+      "యుత",
+      "▁ప్రజాస్వామ్య"
+     ]
+    }
+   },
+   "ur": {
+    "title": "بھارت",
+    "project": "ur.wikipedia.org",
+    "revid": 11983228,
+    "rev_timestamp": "2026-09-18T23:41:55Z",
+    "retrieved_utc": "2026-10-01T11:40:04+00:00",
+    "permanent_url": "https://ur.wikipedia.org/w/index.php?oldid=11983228",
+    "url": "https://ur.wikipedia.org/wiki/%D8%A8%DA%BE%D8%A7%D8%B1%D8%AA",
+    "clean_text_sha256": "a223715565b8e227841f64d230f2a665f4a7a64e4d649cdb60a54fb3e3f269a1",
+    "file_sha256": "81855bc0a3dd95ef248960f2232c9bb1000ac9b15213929e8d998b90737103b8",
+    "eval_file": "data/eval/ur.txt",
+    "words": 3486,
+    "tokens": 5166,
+    "fertility": 1.4819277108433735,
+    "fertility_exact": "5166/3486",
+    "heldout_fertility": 1.9283084150715806,
+    "heldout_words": 63006,
+    "akshara_violations": 0,
+    "example": {
+     "text": "بھارَت (ہندی: भारत، انگریزی: India)، جسے عموماً ہندوستان یا ہند کہا جاتا ہے اور رسمی طور پر جمہوریہ",
+     "tokens": [
+      "▁بھ",
+      "ا",
+      "رَ",
+      "ت",
+      "▁(",
+      "ہ",
+      "ندی",
+      ":",
+      "▁भारत",
+      "،",
+      "▁انگریزی",
+      ":",
+      "▁India",
+      ")",
+      "،",
+      "▁جس",
+      "ے",
+      "▁عم",
+      "وم",
+      "اً",
+      "▁ہندوستان",
+      "▁یا",
+      "▁ہند",
+      "▁کہا",
+      "▁جاتا",
+      "▁ہے",
+      "▁اور",
+      "▁رس",
+      "می",
+      "▁طور",
+      "▁پر",
+      "▁جمہوریہ"
+     ]
+    }
+   }
+  },
+  "min_lang": "te",
+  "max_lang": "ur",
+  "min_fertility": 1.481451284141867,
+  "max_fertility": 1.4819277108433735,
+  "spread": 0.0004764267015063925,
+  "spread_exact": "97/203599",
+  "score": 2098958.762886598,
+  "score_exact": "203599000/97",
+  "score_decimal": "2098958.762886597938",
+  "tokenizer_sha256": "45aa8369f867472f8686b48025354fbfc0d9b53d6f7573d021aaaac815179dc4",
+  "tokenizer_bytes": 754675,
+  "verification": {
+   "agree": true,
+   "summary": "56/56 checks pass: the Hugging Face library (Python) and a separate JavaScript BPE both reload tokenizer.json and get identical token counts, word counts, spread and score.",
+   "checks": [
+    {
+     "check": "vocabulary size is exactly 10,000 (Python)",
+     "pass": true,
+     "detail": "10000"
+    },
+    {
+     "check": "vocabulary size is exactly 10,000 (JS)",
+     "pass": true,
+     "detail": "10000"
+    },
+    {
+     "check": "no added tokens outside the BPE vocabulary",
+     "pass": true,
+     "detail": "[]"
+    },
+    {
+     "check": "token ids are 0..9999 with no gaps",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "every merge refers to tokens in the vocabulary",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "model type is BPE",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "no post-processor adds extra tokens",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "both verifiers read the same tokenizer file",
+     "pass": true,
+     "detail": "45aa8369f867472f8686b48025354fbfc0d9b53d6f7573d021aaaac815179dc4"
+    },
+    {
+     "check": "en: evaluation text matches pinned hash",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "en: evaluation file bytes match pinned file hash (sha256sum)",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "en: same token count with the final newline kept, and line by line",
+     "pass": true,
+     "detail": "17292 / 17292 / 17292"
+    },
+    {
+     "check": "en: word count agrees (split / regex / JS)",
+     "pass": true,
+     "detail": "11672 / 11672 / 11672"
+    },
+    {
+     "check": "en: token count agrees (HF Python / independent JS)",
+     "pass": true,
+     "detail": "17292 / 17292"
+    },
+    {
+     "check": "en: no <unk> tokens",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "en: decode(encode(text)) is lossless",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "en: NFD input gives identical tokens",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "en: deterministic encoding",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "en: no token boundary inside a grapheme cluster (ICU)",
+     "pass": true,
+     "detail": "0"
+    },
+    {
+     "check": "en: no token starts with a combining mark or joiner",
+     "pass": true,
+     "detail": "0"
+    },
+    {
+     "check": "hi: evaluation text matches pinned hash",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "hi: evaluation file bytes match pinned file hash (sha256sum)",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "hi: same token count with the final newline kept, and line by line",
+     "pass": true,
+     "detail": "12131 / 12131 / 12131"
+    },
+    {
+     "check": "hi: word count agrees (split / regex / JS)",
+     "pass": true,
+     "detail": "8187 / 8187 / 8187"
+    },
+    {
+     "check": "hi: token count agrees (HF Python / independent JS)",
+     "pass": true,
+     "detail": "12131 / 12131"
+    },
+    {
+     "check": "hi: no <unk> tokens",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "hi: decode(encode(text)) is lossless",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "hi: NFD input gives identical tokens",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "hi: deterministic encoding",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "hi: no token boundary inside a grapheme cluster (ICU)",
+     "pass": true,
+     "detail": "0"
+    },
+    {
+     "check": "hi: no token starts with a combining mark or joiner",
+     "pass": true,
+     "detail": "0"
+    },
+    {
+     "check": "te: evaluation text matches pinned hash",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "te: evaluation file bytes match pinned file hash (sha256sum)",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "te: same token count with the final newline kept, and line by line",
+     "pass": true,
+     "detail": "3634 / 3634 / 3634"
+    },
+    {
+     "check": "te: word count agrees (split / regex / JS)",
+     "pass": true,
+     "detail": "2453 / 2453 / 2453"
+    },
+    {
+     "check": "te: token count agrees (HF Python / independent JS)",
+     "pass": true,
+     "detail": "3634 / 3634"
+    },
+    {
+     "check": "te: no <unk> tokens",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "te: decode(encode(text)) is lossless",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "te: NFD input gives identical tokens",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "te: deterministic encoding",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "te: no token boundary inside a grapheme cluster (ICU)",
+     "pass": true,
+     "detail": "0"
+    },
+    {
+     "check": "te: no token starts with a combining mark or joiner",
+     "pass": true,
+     "detail": "0"
+    },
+    {
+     "check": "ur: evaluation text matches pinned hash",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "ur: evaluation file bytes match pinned file hash (sha256sum)",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "ur: same token count with the final newline kept, and line by line",
+     "pass": true,
+     "detail": "5166 / 5166 / 5166"
+    },
+    {
+     "check": "ur: word count agrees (split / regex / JS)",
+     "pass": true,
+     "detail": "3486 / 3486 / 3486"
+    },
+    {
+     "check": "ur: token count agrees (HF Python / independent JS)",
+     "pass": true,
+     "detail": "5166 / 5166"
+    },
+    {
+     "check": "ur: no <unk> tokens",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "ur: decode(encode(text)) is lossless",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "ur: NFD input gives identical tokens",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "ur: deterministic encoding",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "ur: no token boundary inside a grapheme cluster (ICU)",
+     "pass": true,
+     "detail": "0"
+    },
+    {
+     "check": "ur: no token starts with a combining mark or joiner",
+     "pass": true,
+     "detail": "0"
+    },
+    {
+     "check": "min/max languages agree",
+     "pass": true,
+     "detail": ""
+    },
+    {
+     "check": "spread agrees (exact fraction vs JS float)",
+     "pass": true,
+     "detail": "97/203599 = 0.0004764267015063925"
+    },
+    {
+     "check": "score agrees",
+     "pass": true,
+     "detail": "2098958.762886598"
+    },
+    {
+     "check": "Unicode test strings round-trip with joiners preserved",
+     "pass": true,
+     "detail": ""
+    }
+   ],
+   "versions": {
+    "python": "3.14.4",
+    "tokenizers": "0.23.1",
+    "python_unicode": "16.0.0",
+    "node": "v22.15.0",
+    "node_icu_unicode": "16.0"
+   }
+  }
+ },
+ "lede_html": "One BPE vocabulary of exactly 10,000 tokens shared by English, Hindi, Telugu and Urdu. On the four India pages the fertilities (tokens per word) range from 1.481451 (Telugu) to 1.481928 (Urdu). The gap is 0.000476427 (exactly 97/203599), so the score is 1000 / gap = 2,098,958.8.",
+ "caveat_html": "<b>Honest caveats.</b> <b>(1) English is not at 1.2.</b> English fertility is 1.481, above the 1.2 target set for the task (it is within the looser 1.6 bound). English ≤ 1.2 is reachable (giving English 6× its weight gives 1.189), but the 10,000 tokens are shared, so Telugu then needs 2.35 tokens per word and the score falls to 863. With tokens that never cross a space I could not get all four languages to 1.2 together: English, Hindi and Telugu alone only meet at 1.426. See <a href=\"#experiments\">Why English is not at 1.2</a>. <b>(2) The evaluation pages are in the training data</b> (the task allows any training data); on unseen Wikipedia text the fertilities are 1.93 (Urdu) to 2.74 (Telugu). <b>(3) The score belongs to the exact page texts.</b> Re-measured on the live pages on 2026-10-01 (English edited since pinning) the score is unchanged. Extracted differently, the same pages give other fertilities and a different score: about 93,821 with the '== Heading ==' format of the <code>wikipedia</code> Python package, and about 3,309–3,434 when the text is taken from the rendered HTML instead (which adds lists, references and captions). English is only 0.5 token above the best language, so even one token more or less on a page changes the score a lot. Download the texts above to check the number.",
+ "method_html": "\n<h2>Method</h2>\n\n<h3>BPE in one paragraph</h3>\n<p>Byte-Pair Encoding starts from single characters. It counts every pair of neighbouring symbols in the\ntraining text, merges the most frequent pair into a new token, writes that merge down, and repeats until the\nvocabulary is full. To tokenize new text the same merges are replayed in the same order. The downloadable\n<code>tokenizer.json</code> contains exactly that: 10,000 vocabulary entries and the ordered list of\n9,634 merges (plus the normaliser and pre-tokenizer settings), so anyone can load it with\n<code>Tokenizer.from_file(\"tokenizer.json\")</code> (Hugging Face <code>tokenizers</code> 0.20 or newer; I\nchecked 0.20.3, 0.21.0 and 0.23.1 and they give identical token counts).</p>\n\n<h3>Fertility and the score</h3>\n<p>Fertility is the number of tokens needed per word, measured on one page:</p>\n<span class=\"formula\">fertility = tokens on the page / words on the page</span>\n<p>Words are the whitespace-separated chunks of the cleaned page text, as in the standard worked example\n(\"Artificial intelligence is changing the world\" = 6 words). Punctuation attached to a word is part of that\nword. The word counting rule was fixed before any tuning and never changed. The score is</p>\n<span class=\"formula\">score = 1000 / (largest fertility − smallest fertility)</span>\n<p>computed from the exact token and word counts (the gap is an exact fraction, shown in the result card).</p>\n\n<h3>Getting the pages</h3>\n<p>All four pages were downloaded through the official MediaWiki API as plain text (the TextExtracts\nextension with <code>explaintext=1&amp;exsectionformat=plain</code>, so section headings are plain lines).\nWikimedia removes tables, infoboxes, figures, reference lists and navigation boxes on the server, in the same\nway for every language, so I did not write any language-specific cleaning. My own cleaning is only: Unicode\nNFC, every kind of whitespace (tabs, non-breaking spaces, thin spaces) turned into a normal space, and empty\nlines dropped. The cleaned texts are frozen together with their revision ids and can be downloaded at the top\nof this page, so the score can always be recomputed on exactly the same text.</p>\n\n<h3>Spaces and punctuation</h3>\n<p>As in SentencePiece, a space becomes the visible symbol \"▁\" attached to the following word, so decoding\ngives back the (normalised) text: every run of whitespace, including line breaks, comes back as one space.\nI first tried also splitting punctuation into separate pieces, but then every comma and full stop is a token of\nits own; on the English page that alone makes 1.227 the lowest fertility possible, which is above\nthe 1.2 target. So punctuation is allowed to merge into words (for example \"▁India,\" can be one token).\nTokens never cross a space, so a token is always inside one word and fertility can never go below 1.</p>\n\n<h3>Characters and the unknown token</h3>\n<p>The base vocabulary has 365 single characters: every character that occurs on the four pages plus the\nones that are common in the extra training text. As with word-level tokenizers, anything\noutside this set becomes <code>&lt;unk&gt;</code>; here that only happens for single unseen characters\n(for example most Telugu and Urdu digits, emoji or other scripts), never for a whole word. There is no\n<code>&lt;unk&gt;</code> on the four pages. On 243,765 words of unseen Wikipedia text it happened\n357 times. I tried byte fallback (256 byte tokens, so nothing is ever unknown), but it cost about\n0.02 in fertility on the pages, so I did not use it.</p>\n\n<h3>Indic text: akshara-first merges</h3>\n<p>An akshara (syllable) such as క్తి or क्ष is several Unicode characters: consonant, virama (halant),\nconsonant, vowel sign. Plain BPE does not know this and happily puts a token boundary in the middle of one,\ne.g. a token that ends with a halant or starts with a matra. My first plain-BPE tokenizer (pages only, equal\nweights) did this 1,694 times on the four pages, and plain BPE with my final training recipe still did it\n1,534 times. So the first merges in my tokenizer glue every akshara together:\nvowel signs, anusvara, nukta and virama stay with their consonant, consonants joined by a virama stay\ntogether (conjuncts), a ZWJ keeps the conjunct together, and a ZWNJ is respected as an explicit request to\nkeep the consonants apart. Only after that does BPE learn merges, and those merges only join whole aksharas.\nResult: no token boundary falls inside an akshara anywhere on the four evaluation pages. I checked this with my\nown rule and, independently, with the browser's Unicode grapheme segmenter (Intl.Segmenter). This costs about\n0.03 in fertility compared with plain BPE (see the recipe table). Characters are never split into\nbytes, so a single Unicode character is never cut either. The guarantee is for the four pages: an akshara that\nnever appeared there (for example क्‍ष written with a ZWJ) is spelled out character by character, with the\njoiner kept as its own token. On the unseen Wikipedia text this happens 17,564 times, compared with\n56,027 cuts for plain BPE.</p>\n\n<h3>Training data</h3>\n<p>Any data may be used to build the tokenizer, as long as fertility is measured on\nthe four India pages. My training text is therefore the four evaluation pages plus about 600,000 words of\nother Wikipedia articles per language (the 2023 <code>wikimedia/wikipedia</code> dump; the India article itself\nexcluded). Inside each language, the page counts 300 times as much as the same amount of general text;\nafter balancing the language weights, the pages count 613× (Telugu), 318× (English), 207× (Hindi), 201× (Urdu) as much as one unweighted word of general text. Because the evaluation pages are part of\nthe training data, fertility on them is lower than on unseen text; the language table therefore also shows\nheld-out fertility on Wikipedia articles that were not used for training. The extra articles matter for a\npractical reason: almost every word on these pages occurs only once, so with the pages alone BPE spends its\nlast merges in big blocks on one language at a time and the fertilities jump around: over my first balancing\nrounds Telugu went 2.01 → 1.00 → 2.04 → 1.00 → 1.60 (1.00 means every Telugu word had become a single token).\nThe extra text acts as a tie-breaker (generally common words first) and makes the result change smoothly with\nthe weights.</p>\n\n<h3>Fourth language</h3>\n<p>I did not pick the fourth language by hand. I ran the same recipe for 10 candidates, balanced the\nweights for each, and compared the fertility level at which all four languages meet (the worst of the four,\nlower is better). Urdu gave the lowest level (1.501), ahead of Punjabi (1.556) and Marathi\n(1.577). Urdu is the language closest to Hindi in speech but written in a different (Perso-Arabic)\nscript, and its India article (3,486 words) is longer than the Telugu one (2,453 words). Even\ncandidates with much smaller pages (Gujarati, Kannada, Sanskrit) came out worse, so the choice is not explained\nby page size.</p>\n\n<h3>Optimising the score</h3>\n<p>The score only depends on the gap between the best and the worst language. Each language gets a sampling\nweight in the training text. After each training run, languages above the average fertility get more weight\nand those below get less, and the tokenizer is retrained from scratch. Once the four values were close, a\nsmall random search around the best weights shrank the gap further. Giving more weight to the weakest\nlanguage (Telugu has 1.9× the weight of English) is what closes the gap. No language was made\nworse on purpose: among the 179 runs with the final recipe, none had a lower worst-language fertility\nthan the released tokenizer (1.481928). In total I ran 519 training runs (478 distinct\ntokenizers; the rest were deliberate re-runs of the same settings, for example to check that training is\ndeterministic).</p>\n",
+ "eval_downloads": [
+  {
+   "lang": "en",
+   "href": "data/eval/en.txt",
+   "words": 11672,
+   "sha": "f441d78e4e5108bc26cbaee289404c9267d27b19ca05f8d88665a03367b3dfe6"
+  },
+  {
+   "lang": "hi",
+   "href": "data/eval/hi.txt",
+   "words": 8187,
+   "sha": "e0ef653be4563baa9403c28ad9c8fd00ec9b099411798f302bb56b4a90b1c105"
+  },
+  {
+   "lang": "te",
+   "href": "data/eval/te.txt",
+   "words": 2453,
+   "sha": "bdc6200753fac3281d269b8d37aba5ab71dd37ee188f5291a7f5a7e026985027"
+  },
+  {
+   "lang": "ur",
+   "href": "data/eval/ur.txt",
+   "words": 3486,
+   "sha": "81855bc0a3dd95ef248960f2232c9bb1000ac9b15213929e8d998b90737103b8"
+  }
+ ],
+ "check_snippet": "# pip install tokenizers   (0.20 or newer)\nfrom tokenizers import Tokenizer\ntok = Tokenizer.from_file(\"tokenizer.json\")\nfor lang in [\"en\", \"hi\", \"te\", \"ur\"]:          # the four .txt files from this page\n    text = open(f\"{lang}.txt\", encoding=\"utf-8\").read()\n    print(lang, len(tok.encode(text).ids), len(text.split()))",
+ "experiments": {
+  "total_runs": 519,
+  "intro_html": "519 training runs (478 distinct tokenizers) in total. Every run is stored in <code>experiments/</code> (configuration, weights, fertilities, checks and the tokenizer hash).",
+  "baseline": {
+   "label": "plain BPE on the four pages, equal weights",
+   "id": "D-base-001",
+   "per_lang": {
+    "en": 1.4098697738176833,
+    "hi": 1.281788200806156,
+    "te": 1.9327354260089686,
+    "ur": 1.2819850831899025
+   },
+   "spread": 0.6509472252028126,
+   "score": 1536.222847694657,
+   "note_html": "Baseline: plain BPE trained only on the four pages with equal weights (no akshara rule, no balancing). Telugu was far behind and the score was 1,536. The final tokenizer brings all four languages to the same fertility.",
+   "ext_only": {
+    "id": "D-base-002",
+    "per_lang": {
+     "en": 2.0059115832762164,
+     "hi": 1.684133382191279,
+     "te": 2.2348145128414187,
+     "ur": 1.4193918531267928
+    },
+    "spread": 0.8154226597146259,
+    "score": 1226.357874761502
+   }
+  },
+  "fourth": {
+   "rows": [
+    {
+     "stage": "B-3lang",
+     "lang": "-",
+     "name": "none",
+     "words": null,
+     "eligible": true,
+     "level": 1.4256013045250713,
+     "max": 1.4256013045250713,
+     "spread": 0.00029288874395483333,
+     "heldout": 2.6290121091993273,
+     "heldout_mean": 2.2068103146000473,
+     "runs": 12,
+     "best_id": "B-3lang-007",
+     "akv_eval": 0,
+     "chosen": false,
+     "note": "lower bound: only the three required languages"
+    },
+    {
+     "stage": "B-ur",
+     "lang": "ur",
+     "name": "Urdu",
+     "words": 3486,
+     "eligible": true,
+     "level": 1.5014268242967794,
+     "max": 1.5014268242967794,
+     "spread": 0.005156026821162785,
+     "heldout": 2.623565467961424,
+     "heldout_mean": 2.1590160265281746,
+     "runs": 11,
+     "best_id": "B-ur-010",
+     "akv_eval": 0,
+     "chosen": true,
+     "note": "chosen"
+    },
+    {
+     "stage": "B-gu",
+     "lang": "gu",
+     "name": "Gujarati",
+     "words": 1373,
+     "eligible": false,
+     "level": 1.5520757465404225,
+     "max": 1.5520757465404225,
+     "spread": 0.0017292320683475193,
+     "heldout": 2.6412545596881922,
+     "heldout_mean": 2.2889715899279697,
+     "runs": 11,
+     "best_id": "B-gu-009",
+     "akv_eval": 0,
+     "chosen": false,
+     "note": "page under 2,000 words, shown for comparison"
+    },
+    {
+     "stage": "B-pa",
+     "lang": "pa",
+     "name": "Punjabi",
+     "words": 4606,
+     "eligible": true,
+     "level": 1.5562885538039752,
+     "max": 1.5562885538039752,
+     "spread": 0.0006424062295764532,
+     "heldout": 2.6338591202092045,
+     "heldout_mean": 2.196829246833265,
+     "runs": 11,
+     "best_id": "B-pa-008",
+     "akv_eval": 0,
+     "chosen": false,
+     "note": ""
+    },
+    {
+     "stage": "B-mr",
+     "lang": "mr",
+     "name": "Marathi",
+     "words": 4545,
+     "eligible": true,
+     "level": 1.5774503084304319,
+     "max": 1.5774503084304319,
+     "spread": 0.0018286207011208866,
+     "heldout": 2.639172510285324,
+     "heldout_mean": 2.2784998209432854,
+     "runs": 13,
+     "best_id": "B-mr-012",
+     "akv_eval": 0,
+     "chosen": false,
+     "note": ""
+    },
+    {
+     "stage": "B-sa",
+     "lang": "sa",
+     "name": "Sanskrit",
+     "words": 1511,
+     "eligible": false,
+     "level": 1.5916611515552614,
+     "max": 1.5916611515552614,
+     "spread": 0.0013595751330544026,
+     "heldout": 2.7111847804357967,
+     "heldout_mean": 2.3590119671044425,
+     "runs": 11,
+     "best_id": "B-sa-008",
+     "akv_eval": 0,
+     "chosen": false,
+     "note": "page under 2,000 words, shown for comparison"
+    },
+    {
+     "stage": "B-or",
+     "lang": "or",
+     "name": "Odia",
+     "words": 2185,
+     "eligible": true,
+     "level": 1.5926773455377574,
+     "max": 1.5926773455377574,
+     "spread": 0.0007490944166812508,
+     "heldout": 2.650698735779603,
+     "heldout_mean": 2.294469381903604,
+     "runs": 11,
+     "best_id": "B-or-010",
+     "akv_eval": 0,
+     "chosen": false,
+     "note": ""
+    },
+    {
+     "stage": "B-kn",
+     "lang": "kn",
+     "name": "Kannada",
+     "words": 979,
+     "eligible": false,
+     "level": 1.5939904727006229,
+     "max": 1.5939904727006229,
+     "spread": 0.0008392293251642258,
+     "heldout": 2.952528315900229,
+     "heldout_mean": 2.4451634053473428,
+     "runs": 11,
+     "best_id": "B-kn-010",
+     "akv_eval": 0,
+     "chosen": false,
+     "note": "page under 2,000 words, shown for comparison"
+    },
+    {
+     "stage": "B-ta",
+     "lang": "ta",
+     "name": "Tamil",
+     "words": 10223,
+     "eligible": true,
+     "level": 1.6865890638755747,
+     "max": 1.6865890638755747,
+     "spread": 0.0009310789543959253,
+     "heldout": 2.7039230322634156,
+     "heldout_mean": 2.4246420093366905,
+     "runs": 11,
+     "best_id": "B-ta-010",
+     "akv_eval": 0,
+     "chosen": false,
+     "note": ""
+    },
+    {
+     "stage": "B-bn",
+     "lang": "bn",
+     "name": "Bengali",
+     "words": 6320,
+     "eligible": true,
+     "level": 1.718211799193844,
+     "max": 1.718211799193844,
+     "spread": 0.0011110452527884895,
+     "heldout": 2.6882755634025686,
+     "heldout_mean": 2.342855641039195,
+     "runs": 11,
+     "best_id": "B-bn-006",
+     "akv_eval": 0,
+     "chosen": false,
+     "note": ""
+    },
+    {
+     "stage": "B-ml",
+     "lang": "ml",
+     "name": "Malayalam",
+     "words": 3089,
+     "eligible": true,
+     "level": 1.7902233732599546,
+     "max": 1.7902233732599546,
+     "spread": 0.004582523362764768,
+     "heldout": 3.0264131619809045,
+     "heldout_mean": 2.559893939950948,
+     "runs": 11,
+     "best_id": "B-ml-010",
+     "akv_eval": 0,
+     "chosen": false,
+     "note": ""
+    }
+   ],
+   "note_html": "Same recipe for every candidate, weights balanced automatically. Each dot is the fertility at which all four languages meet (the worst of the four). Hollow dots are pages under 2,000 words, shown for comparison only. Hover for page size and held-out fertility."
+  },
+  "tradeoff": {
+   "points": [
+    {
+     "en_weight": 1.0,
+     "en": 1.4814941740918437,
+     "worst_other": 1.4819277108433735,
+     "worst_lang": "ur",
+     "spread": 0.0004764267015064938,
+     "score": 2098958.7628861517,
+     "id": "D-entrade2-001"
+    },
+    {
+     "en_weight": 1.25,
+     "en": 1.4267477724468813,
+     "worst_other": 1.5772523440684876,
+     "worst_lang": "te",
+     "spread": 0.15050457162160624,
+     "score": 6644.316443185313,
+     "id": "D-entrade2-002"
+    },
+    {
+     "en_weight": 1.5,
+     "en": 1.4136394790952707,
+     "worst_other": 1.6131267835303709,
+     "worst_lang": "te",
+     "spread": 0.1994873044351002,
+     "score": 5012.85033066018,
+     "id": "D-entrade2-003"
+    },
+    {
+     "en_weight": 2.0,
+     "en": 1.3751713502398903,
+     "worst_other": 1.729311047696698,
+     "worst_lang": "te",
+     "spread": 0.3541396974568076,
+     "score": 2823.7444352647426,
+     "id": "D-entrade2-004"
+    },
+    {
+     "en_weight": 3.0,
+     "en": 1.3073166552433173,
+     "worst_other": 1.8830004076640847,
+     "worst_lang": "te",
+     "spread": 0.5756837524207674,
+     "score": 1737.0648308120042,
+     "id": "D-entrade2-005"
+    },
+    {
+     "en_weight": 4.0,
+     "en": 1.2542837559972584,
+     "worst_other": 2.066856909906237,
+     "worst_lang": "te",
+     "spread": 0.8125731539089787,
+     "score": 1230.6584277235625,
+     "id": "D-entrade2-006"
+    },
+    {
+     "en_weight": 6.0,
+     "en": 1.1894276901987664,
+     "worst_other": 2.3481451284141865,
+     "worst_lang": "te",
+     "spread": 1.1587174382154202,
+     "score": 863.0231728799506,
+     "id": "D-entrade2-007"
+    }
+   ],
+   "en12": {
+    "id": "D-en12-013",
+    "en": 1.2079335161069225,
+    "worst": 2.0839788014675906,
+    "worst_lang": "te",
+    "spread": 0.8760452853606682,
+    "score": 1141.4935012044493,
+    "fertility": {
+     "en": 1.2079335161069225,
+     "hi": 2.0784170025650424,
+     "te": 2.0839788014675906,
+     "ur": 2.0740103270223753
+    }
+   },
+   "note_html": "Starting from the released weights (×1 is the released tokenizer), only the English weight was increased and the tokenizer retrained each time. English gets cheaper, but the 10,000 tokens are shared, so the other languages get more expensive and the gap grows. English reaches 1.2 between ×4 and ×6 (1.189 at ×6), where the score is 863 instead of 2,098,959."
+  },
+  "ablations": {
+   "rows": [
+    {
+     "stage": "C-plain2",
+     "level": 1.4565837749694253,
+     "max": 1.4565837749694253,
+     "spread": 0.0016210669946690182,
+     "heldout": 2.6396888585372356,
+     "akv_eval": 1534,
+     "akv_heldout": 56027,
+     "chars": 365,
+     "stage1": 0,
+     "learned": 9634,
+     "best_id": "C-plain2-012",
+     "name": "Plain BPE (no akshara rule)",
+     "note": "lower level, but tokens cut through aksharas",
+     "chosen": false
+    },
+    {
+     "stage": "C-akfew",
+     "level": 1.4822652501713502,
+     "max": 1.4822652501713502,
+     "spread": 0.001991645676419296,
+     "heldout": 2.7407432083548477,
+     "akv_eval": 0,
+     "akv_heldout": 17564,
+     "chars": 365,
+     "stage1": 1406,
+     "learned": 8228,
+     "best_id": "C-akfew-010",
+     "name": "Akshara-first, only aksharas seen on the pages glued",
+     "note": "fewer akshara tokens, more room for words",
+     "chosen": true
+    },
+    {
+     "stage": "C-ext150",
+     "level": 1.4888123924268502,
+     "max": 1.4888123924268502,
+     "spread": 0.03833261175515723,
+     "heldout": 2.916284957609474,
+     "akv_eval": 0,
+     "akv_heldout": 15001,
+     "chars": 330,
+     "stage1": 1443,
+     "learned": 8226,
+     "best_id": "C-ext150-010",
+     "name": "150K instead of 600K general words per language",
+     "note": "could not be balanced as well",
+     "chosen": false
+    },
+    {
+     "stage": "C-evalonly",
+     "level": 1.4962707974756166,
+     "max": 1.4962707974756166,
+     "spread": 0.059413360875205434,
+     "heldout": 3.1160950747039324,
+     "akv_eval": 0,
+     "akv_heldout": 17698,
+     "chars": 297,
+     "stage1": 1411,
+     "learned": 8291,
+     "best_id": "C-evalonly-009",
+     "name": "Evaluation pages only, no general text",
+     "note": "could not be balanced; worst on unseen text",
+     "chosen": false
+    },
+    {
+     "stage": "C-alpha100",
+     "level": 1.496942519364044,
+     "max": 1.496942519364044,
+     "spread": 0.0012454453537169563,
+     "heldout": 2.622616053433716,
+     "akv_eval": 0,
+     "akv_heldout": 10018,
+     "chars": 335,
+     "stage1": 1598,
+     "learned": 8066,
+     "best_id": "C-alpha100-008",
+     "name": "Drop characters seen < 100 times (instead of 30)",
+     "note": "no real difference",
+     "chosen": false
+    },
+    {
+     "stage": "C-nfkc",
+     "level": 1.4989808397880147,
+     "max": 1.4989808397880147,
+     "spread": 0.0007020101838839388,
+     "heldout": 2.624098472608558,
+     "akv_eval": 0,
+     "akv_heldout": 10027,
+     "chars": 363,
+     "stage1": 1598,
+     "learned": 8038,
+     "best_id": "C-nfkc-008",
+     "name": "NFKC instead of NFC normalisation",
+     "note": "no difference, NFC kept (lossless)",
+     "chosen": false
+    },
+    {
+     "stage": "B-ur",
+     "level": 1.5014268242967794,
+     "max": 1.5014268242967794,
+     "spread": 0.005156026821162785,
+     "heldout": 2.623565467961424,
+     "akv_eval": 0,
+     "akv_heldout": 10027,
+     "chars": 365,
+     "stage1": 1599,
+     "learned": 8035,
+     "best_id": "B-ur-010",
+     "name": "Akshara-first, aksharas with count ≥ 300 glued",
+     "note": "stage B recipe",
+     "chosen": false
+    },
+    {
+     "stage": "C-bytefb",
+     "level": 1.5205870362821035,
+     "max": 1.5205870362821035,
+     "spread": 0.0036621940560563893,
+     "heldout": 2.6325432649865914,
+     "akv_eval": 0,
+     "akv_heldout": 10141,
+     "chars": 365,
+     "stage1": 1600,
+     "learned": 7778,
+     "best_id": "C-bytefb-010",
+     "name": "Byte fallback (+256 byte tokens)",
+     "note": "costs vocabulary, no gain on these pages",
+     "chosen": false
+    },
+    {
+     "stage": "C-ew1000",
+     "level": 1.5464716006884682,
+     "max": 1.5464716006884682,
+     "spread": 0.11012821480772805,
+     "heldout": 2.8204773722870895,
+     "akv_eval": 0,
+     "akv_heldout": 10013,
+     "chars": 365,
+     "stage1": 1603,
+     "learned": 8031,
+     "best_id": "C-ew1000-001",
+     "name": "Pages counted ×1000",
+     "note": "could not be balanced: Telugu jumps",
+     "chosen": false
+    },
+    {
+     "stage": "C-ew100",
+     "level": 1.591508892713712,
+     "max": 1.591508892713712,
+     "spread": 0.0008036338470180926,
+     "heldout": 2.396505488282226,
+     "akv_eval": 0,
+     "akv_heldout": 9368,
+     "chars": 368,
+     "stage1": 1626,
+     "learned": 8005,
+     "best_id": "C-ew100-010",
+     "name": "Pages counted ×100 instead of ×300",
+     "note": "better on unseen text, worse on the pages",
+     "chosen": false
+    }
+   ],
+   "note_html": "Each row changes one thing in the recipe and re-balances the weights. 'Balanced fertility' is the worst of the four languages at the best balance reached (lower is better), 'held-out' is the worst language on unseen Wikipedia articles."
+  },
+  "trace": {
+   "points": [
+    {
+     "step": 1,
+     "id": "C-akfew-001",
+     "spread": 0.017194541115489903,
+     "max": 1.4909002076462685,
+     "min": 1.4737056665307786
+    },
+    {
+     "step": 2,
+     "id": "C-akfew-002",
+     "spread": 0.07162683364810674,
+     "max": 1.5234406848756625,
+     "min": 1.4518138512275558
+    },
+    {
+     "step": 3,
+     "id": "C-akfew-003",
+     "spread": 0.09416519951370894,
+     "max": 1.509167237834133,
+     "min": 1.415002038320424
+    },
+    {
+     "step": 4,
+     "id": "C-akfew-004",
+     "spread": 0.15482035537466965,
+     "max": 1.5833673053403996,
+     "min": 1.42854694996573
+    },
+    {
+     "step": 5,
+     "id": "C-akfew-005",
+     "spread": 0.029752344653203533,
+     "max": 1.4908204245553642,
+     "min": 1.4610680799021607
+    },
+    {
+     "step": 6,
+     "id": "C-akfew-006",
+     "spread": 0.026633192015372176,
+     "max": 1.4993885038728088,
+     "min": 1.4727553118574366
+    },
+    {
+     "step": 7,
+     "id": "C-akfew-007",
+     "spread": 0.0454780860296955,
+     "max": 1.4988005483207676,
+     "min": 1.453322462291072
+    },
+    {
+     "step": 8,
+     "id": "C-akfew-008",
+     "spread": 0.026893046435426005,
+     "max": 1.5010191602119853,
+     "min": 1.4741261137765593
+    },
+    {
+     "step": 9,
+     "id": "C-akfew-009",
+     "spread": 0.00889945506013401,
+     "max": 1.4842357779300892,
+     "min": 1.4753363228699552
+    },
+    {
+     "step": 10,
+     "id": "C-akfew-010",
+     "spread": 0.001991645676419296,
+     "max": 1.4822652501713502,
+     "min": 1.480273604494931
+    },
+    {
+     "step": 11,
+     "id": "C-akfew-011",
+     "spread": 0.001991645676419296,
+     "max": 1.4822652501713502,
+     "min": 1.480273604494931
+    },
+    {
+     "step": 12,
+     "id": "D-ft2-001",
+     "spread": 0.0016541063484425411,
+     "max": 1.4819277108433735,
+     "min": 1.480273604494931
+    },
+    {
+     "step": 13,
+     "id": "D-ft4-001",
+     "spread": 0.0016541063484425411,
+     "max": 1.4819277108433735,
+     "min": 1.480273604494931
+    },
+    {
+     "step": 14,
+     "id": "D-ft1-001",
+     "spread": 0.0016541063484425411,
+     "max": 1.4819277108433735,
+     "min": 1.480273604494931
+    },
+    {
+     "step": 15,
+     "id": "D-ft3-001",
+     "spread": 0.0016541063484425411,
+     "max": 1.4819277108433735,
+     "min": 1.480273604494931
+    },
+    {
+     "step": 16,
+     "id": "D-ft1-002",
+     "spread": 0.0663959477239966,
+     "max": 1.5295556461475743,
+     "min": 1.4631596984235777
+    },
+    {
+     "step": 17,
+     "id": "D-ft2-002",
+     "spread": 0.04325982340517154,
+     "max": 1.502649816551162,
+     "min": 1.4593899931459904
+    },
+    {
+     "step": 18,
+     "id": "D-ft3-002",
+     "spread": 0.015723723754228258,
+     "max": 1.4900122299225438,
+     "min": 1.4742885061683155
+    },
+    {
+     "step": 19,
+     "id": "D-ft4-002",
+     "spread": 0.02648548713064014,
+     "max": 1.488776559287183,
+     "min": 1.462291072156543
+    },
+    {
+     "step": 20,
+     "id": "D-ft4-003",
+     "spread": 0.023265492702142287,
+     "max": 1.49653485527925,
+     "min": 1.4732693625771076
+    },
+    {
+     "step": 21,
+     "id": "D-ft1-003",
+     "spread": 0.015106725896071538,
+     "max": 1.4888123924268502,
+     "min": 1.4737056665307786
+    },
+    {
+     "step": 22,
+     "id": "D-ft2-003",
+     "spread": 0.014045620377280743,
+     "max": 1.4861206305688828,
+     "min": 1.472075010191602
+    },
+    {
+     "step": 23,
+     "id": "D-ft3-003",
+     "spread": 0.034181194531210046,
+     "max": 1.492803289924606,
+     "min": 1.458622095393396
+    },
+    {
+     "step": 24,
+     "id": "D-ft1-004",
+     "spread": 0.01564074441513119,
+     "max": 1.4863808476853548,
+     "min": 1.4707401032702236
+    },
+    {
+     "step": 25,
+     "id": "D-ft2-004",
+     "spread": 0.06189103605633761,
+     "max": 1.4993145990404386,
+     "min": 1.437423562984101
+    },
+    {
+     "step": 26,
+     "id": "D-ft3-004",
+     "spread": 0.052124875695983564,
+     "max": 1.5136567468406033,
+     "min": 1.4615318711446197
+    },
+    {
+     "step": 27,
+     "id": "D-ft4-004",
+     "spread": 0.02665709135534633,
+     "max": 1.491394148020654,
+     "min": 1.4647370566653077
+    },
+    {
+     "step": 28,
+     "id": "D-ft1-005",
+     "spread": 0.008793029751434922,
+     "max": 1.4865174985656913,
+     "min": 1.4777244688142563
+    },
+    {
+     "step": 29,
+     "id": "D-ft2-005",
+     "spread": 0.016984839310776767,
+     "max": 1.493681206685691,
+     "min": 1.4766963673749143
+    },
+    {
+     "step": 30,
+     "id": "D-ft3-005",
+     "spread": 0.00909759824341938,
+     "max": 1.4856569133677568,
+     "min": 1.4765593151243375
+    },
+    {
+     "step": 31,
+     "id": "D-ft4-005",
+     "spread": 0.014237024525889819,
+     "max": 1.4885255306942053,
+     "min": 1.4742885061683155
+    },
+    {
+     "step": 32,
+     "id": "D-ft1-006",
+     "spread": 0.02129779400362186,
+     "max": 1.4981655116184265,
+     "min": 1.4768677176148046
+    },
+    {
+     "step": 33,
+     "id": "D-ft2-006",
+     "spread": 0.02476349755108176,
+     "max": 1.4919465387251543,
+     "min": 1.4671830411740725
+    },
+    {
+     "step": 34,
+     "id": "D-ft4-006",
+     "spread": 0.015738306481244413,
+     "max": 1.4912352221769263,
+     "min": 1.4754969156956819
+    },
+    {
+     "step": 35,
+     "id": "D-ft3-006",
+     "spread": 0.009601610200716593,
+     "max": 1.4885255306942053,
+     "min": 1.4789239204934888
+    },
+    {
+     "step": 36,
+     "id": "D-ft1-007",
+     "spread": 0.01010042917014542,
+     "max": 1.4863432531593967,
+     "min": 1.4762428239892513
+    },
+    {
+     "step": 37,
+     "id": "D-ft3-007",
+     "spread": 0.026561105221302173,
+     "max": 1.4957195271096617,
+     "min": 1.4691584218883595
+    },
+    {
+     "step": 38,
+     "id": "D-ft4-007",
+     "spread": 0.042068858906594064,
+     "max": 1.5075417855686915,
+     "min": 1.4654729266620974
+    },
+    {
+     "step": 39,
+     "id": "D-ft2-007",
+     "spread": 0.05409833729494906,
+     "max": 1.5017135023989034,
+     "min": 1.4476151651039544
+    },
+    {
+     "step": 40,
+     "id": "D-ft1-008",
+     "spread": 0.018664910330084217,
+     "max": 1.4887016000977158,
+     "min": 1.4700366897676316
+    },
+    {
+     "step": 41,
+     "id": "D-ft3-008",
+     "spread": 0.01169802224410832,
+     "max": 1.485403688774887,
+     "min": 1.4737056665307786
+    },
+    {
+     "step": 42,
+     "id": "D-ft2-008",
+     "spread": 0.01737381970932539,
+     "max": 1.4909002076462685,
+     "min": 1.4735263879369431
+    },
+    {
+     "step": 43,
+     "id": "D-ft4-008",
+     "spread": 0.022491587562417426,
+     "max": 1.4949041989400733,
+     "min": 1.4724126113776559
+    },
+    {
+     "step": 44,
+     "id": "D-ft1-009",
+     "spread": 0.01626324254728373,
+     "max": 1.485892268230121,
+     "min": 1.4696290256828373
+    },
+    {
+     "step": 45,
+     "id": "D-ft3-009",
+     "spread": 0.0069575275546522874,
+     "max": 1.4837217272104182,
+     "min": 1.4767641996557659
+    },
+    {
+     "step": 46,
+     "id": "D-ft2-009",
+     "spread": 0.00673682687275079,
+     "max": 1.4865174985656913,
+     "min": 1.4797806716929405
+    },
+    {
+     "step": 47,
+     "id": "D-ft4-009",
+     "spread": 0.003501519291892574,
+     "max": 1.483897268650632,
+     "min": 1.4803957493587394
+    },
+    {
+     "step": 48,
+     "id": "D-ft1-010",
+     "spread": 0.017318229595595813,
+     "max": 1.4898009038719922,
+     "min": 1.4724826742763963
+    },
+    {
+     "step": 49,
+     "id": "D-ft2-010",
+     "spread": 0.009080875362143859,
+     "max": 1.487566245413779,
+     "min": 1.4784853700516352
+    },
+    {
+     "step": 50,
+     "id": "D-ft3-010",
+     "spread": 0.039011029003944486,
+     "max": 1.4915181631254284,
+     "min": 1.452507134121484
+    },
+    {
+     "step": 51,
+     "id": "D-ft4-010",
+     "spread": 0.021936113812883073,
+     "max": 1.4957195271096617,
+     "min": 1.4737834132967786
+    },
+    {
+     "step": 52,
+     "id": "D-ft1-011",
+     "spread": 0.002068684096171003,
+     "max": 1.483075157773953,
+     "min": 1.481006473677782
+    },
+    {
+     "step": 53,
+     "id": "D-ft2-011",
+     "spread": 0.018591955074803268,
+     "max": 1.4940888707704851,
+     "min": 1.4754969156956819
+    },
+    {
+     "step": 54,
+     "id": "D-ft3-011",
+     "spread": 0.009254367557922416,
+     "max": 1.4872358617320143,
+     "min": 1.4779814941740919
+    },
+    {
+     "step": 55,
+     "id": "D-ft4-011",
+     "spread": 0.002859395355297112,
+     "max": 1.4825222755311858,
+     "min": 1.4796628801758887
+    },
+    {
+     "step": 56,
+     "id": "D-ft6-001",
+     "spread": 0.0016541063484425411,
+     "max": 1.4819277108433735,
+     "min": 1.480273604494931
+    },
+    {
+     "step": 57,
+     "id": "D-ft8-001",
+     "spread": 0.0016541063484425411,
+     "max": 1.4819277108433735,
+     "min": 1.480273604494931
+    },
+    {
+     "step": 58,
+     "id": "D-ft7-001",
+     "spread": 0.0016541063484425411,
+     "max": 1.4819277108433735,
+     "min": 1.480273604494931
+    },
+    {
+     "step": 59,
+     "id": "D-ft5-001",
+     "spread": 0.0016541063484425411,
+     "max": 1.4819277108433735,
+     "min": 1.480273604494931
+    },
+    {
+     "step": 60,
+     "id": "D-ft5-002",
+     "spread": 0.004503654307562055,
+     "max": 1.482693625771076,
+     "min": 1.478189971463514
+    },
+    {
+     "step": 61,
+     "id": "D-ft6-002",
+     "spread": 0.008641313416301255,
+     "max": 1.4847929644558446,
+     "min": 1.4761516510395434
+    },
+    {
+     "step": 62,
+     "id": "D-ft7-002",
+     "spread": 0.002849565479481342,
+     "max": 1.4834896045658377,
+     "min": 1.4806400390863563
+    },
+    {
+     "step": 63,
+     "id": "D-ft8-002",
+     "spread": 0.004864655705107079,
+     "max": 1.4835503769705278,
+     "min": 1.4786857212654207
+    },
+    {
+     "step": 64,
+     "id": "D-ft6-003",
+     "spread": 0.005757876648422089,
+     "max": 1.4843214530500344,
+     "min": 1.4785635764016123
+    },
+    {
+     "step": 65,
+     "id": "D-ft8-003",
+     "spread": 0.001200813819337565,
+     "max": 1.4822666123114554,
+     "min": 1.4810657984921178
+    },
+    {
+     "step": 66,
+     "id": "D-ft5-003",
+     "spread": 0.001808172669135466,
+     "max": 1.4827882960413081,
+     "min": 1.4809801233721727
+    },
+    {
+     "step": 67,
+     "id": "D-ft7-003",
+     "spread": 0.0015456578546590993,
+     "max": 1.4826742763962495,
+     "min": 1.4811286185415904
+    },
+    {
+     "step": 68,
+     "id": "D-ft5-004",
+     "spread": 0.006583397761396048,
+     "max": 1.4835503769705278,
+     "min": 1.4769669792091318
+    },
+    {
+     "step": 69,
+     "id": "D-ft6-004",
+     "spread": 0.0033456256581931854,
+     "max": 1.4823509252912954,
+     "min": 1.4790052996331022
+    },
+    {
+     "step": 70,
+     "id": "D-ft8-004",
+     "spread": 0.00235944240794983,
+     "max": 1.4822666123114554,
+     "min": 1.4799071699035056
+    },
+    {
+     "step": 71,
+     "id": "D-ft7-004",
+     "spread": 0.004151929488005912,
+     "max": 1.4830819404810436,
+     "min": 1.4789300109930377
+    },
+    {
+     "step": 72,
+     "id": "D-ft5-005",
+     "spread": 0.0015436190791262572,
+     "max": 1.482179575051405,
+     "min": 1.4806359559722788
+    },
+    {
+     "step": 73,
+     "id": "D-ft6-005",
+     "spread": 0.0029676682386174935,
+     "max": 1.4827882960413081,
+     "min": 1.4798206278026906
+    },
+    {
+     "step": 74,
+     "id": "D-ft8-005",
+     "spread": 0.005240191157265928,
+     "max": 1.4828649760109665,
+     "min": 1.4776247848537005
+    },
+    {
+     "step": 75,
+     "id": "D-ft7-005",
+     "spread": 0.002358947248714438,
+     "max": 1.482179575051405,
+     "min": 1.4798206278026906
+    },
+    {
+     "step": 76,
+     "id": "D-ft6-006",
+     "spread": 0.0009212371655915597,
+     "max": 1.4819277108433735,
+     "min": 1.481006473677782
+    },
+    {
+     "step": 77,
+     "id": "D-ft8-006",
+     "spread": 0.009457653089878448,
+     "max": 1.4883815735833672,
+     "min": 1.4789239204934888
+    },
+    {
+     "step": 78,
+     "id": "D-ft5-006",
+     "spread": 0.002560004153823403,
+     "max": 1.4827882960413081,
+     "min": 1.4802282918874847
+    },
+    {
+     "step": 79,
+     "id": "D-ft5-007",
+     "spread": 0.0034190603051549306,
+     "max": 1.4830819404810436,
+     "min": 1.4796628801758887
+    },
+    {
+     "step": 80,
+     "id": "D-ft6-007",
+     "spread": 0.0027872180684322956,
+     "max": 1.4830819404810436,
+     "min": 1.4802947224126113
+    },
+    {
+     "step": 81,
+     "id": "D-ft8-007",
+     "spread": 0.0027872180684322956,
+     "max": 1.4830819404810436,
+     "min": 1.4802947224126113
+    },
+    {
+     "step": 82,
+     "id": "D-ft7-006",
+     "spread": 0.003375332323411584,
+     "max": 1.4827882960413081,
+     "min": 1.4794129637178965
+    },
+    {
+     "step": 83,
+     "id": "D-ft8-008",
+     "spread": 0.0049319251272796905,
+     "max": 1.4847125968202202,
+     "min": 1.4797806716929405
+    },
+    {
+     "step": 84,
+     "id": "D-ft5-008",
+     "spread": 0.0015319614846340812,
+     "max": 1.4819277108433735,
+     "min": 1.4803957493587394
+    },
+    {
+     "step": 85,
+     "id": "D-ft6-008",
+     "spread": 0.004886342287154344,
+     "max": 1.484304932735426,
+     "min": 1.4794185904482717
+    },
+    {
+     "step": 86,
+     "id": "D-ft7-007",
+     "spread": 0.0029676682386174935,
+     "max": 1.4827882960413081,
+     "min": 1.4798206278026906
+    },
+    {
+     "step": 87,
+     "id": "D-ft5-009",
+     "spread": 0.002727420615672882,
+     "max": 1.4834896045658377,
+     "min": 1.4807621839501648
+    },
+    {
+     "step": 88,
+     "id": "D-ft7-008",
+     "spread": 0.001808172669135466,
+     "max": 1.4827882960413081,
+     "min": 1.4809801233721727
+    },
+    {
+     "step": 89,
+     "id": "D-ft6-009",
+     "spread": 0.005103275367170035,
+     "max": 1.4847125968202202,
+     "min": 1.4796093214530501
+    },
+    {
+     "step": 90,
+     "id": "D-ft8-009",
+     "spread": 0.005513586920805169,
+     "max": 1.4843214530500344,
+     "min": 1.4788078661292292
+    },
+    {
+     "step": 91,
+     "id": "D-ft8-010",
+     "spread": 0.0015511473092999495,
+     "max": 1.4827882960413081,
+     "min": 1.4812371487320082
+    },
+    {
+     "step": 92,
+     "id": "D-ft6-010",
+     "spread": 0.003375332323411584,
+     "max": 1.4827882960413081,
+     "min": 1.4794129637178965
+    },
+    {
+     "step": 93,
+     "id": "D-ft5-010",
+     "spread": 0.0021874922288160903,
+     "max": 1.4830819404810436,
+     "min": 1.4808944482522275
+    },
+    {
+     "step": 94,
+     "id": "D-ft6-011",
+     "spread": 0.0014654721893547773,
+     "max": 1.4827882960413081,
+     "min": 1.4813228238519534
+    },
+    {
+     "step": 95,
+     "id": "D-ft8-011",
+     "spread": 0.004952741422219686,
+     "max": 1.4835503769705278,
+     "min": 1.4785976355483081
+    },
+    {
+     "step": 96,
+     "id": "D-ft7-009",
+     "spread": 0.006905281946236963,
+     "max": 1.4863432531593967,
+     "min": 1.4794379712131598
+    },
+    {
+     "step": 97,
+     "id": "D-ft5-011",
+     "spread": 0.0011379937698650089,
+     "max": 1.4822666123114554,
+     "min": 1.4811286185415904
+    },
+    {
+     "step": 98,
+     "id": "D-ft8-012",
+     "spread": 0.004545077337425596,
+     "max": 1.4835503769705278,
+     "min": 1.4790052996331022
+    },
+    {
+     "step": 99,
+     "id": "D-ft6-012",
+     "spread": 0.0033662323931167304,
+     "max": 1.4834896045658377,
+     "min": 1.480123372172721
+    },
+    {
+     "step": 100,
+     "id": "D-ft5-012",
+     "spread": 0.0017446759842352222,
+     "max": 1.4827882960413081,
+     "min": 1.481043620057073
+    },
+    {
+     "step": 101,
+     "id": "D-ft7-010",
+     "spread": 0.0021874922288160903,
+     "max": 1.4830819404810436,
+     "min": 1.4808944482522275
+    },
+    {
+     "step": 102,
+     "id": "D-ft6-013",
+     "spread": 0.0029676682386174935,
+     "max": 1.4827882960413081,
+     "min": 1.4798206278026906
+    },
+    {
+     "step": 103,
+     "id": "D-ft8-013",
+     "spread": 0.0015319614846340812,
+     "max": 1.4819277108433735,
+     "min": 1.4803957493587394
+    },
+    {
+     "step": 104,
+     "id": "D-ft5-013",
+     "spread": 0.002849565479481342,
+     "max": 1.4834896045658377,
+     "min": 1.4806400390863563
+    },
+    {
+     "step": 105,
+     "id": "D-ft7-011",
+     "spread": 0.003345520878185182,
+     "max": 1.483897268650632,
+     "min": 1.4805517477724468
+    },
+    {
+     "step": 106,
+     "id": "D-ft6-014",
+     "spread": 0.001808172669135466,
+     "max": 1.4827882960413081,
+     "min": 1.4809801233721727
+    },
+    {
+     "step": 107,
+     "id": "D-ft8-014",
+     "spread": 0.003261995401561135,
+     "max": 1.482607950651131,
+     "min": 1.4793459552495698
+    },
+    {
+     "step": 108,
+     "id": "D-ft5-014",
+     "spread": 0.007762033145688685,
+     "max": 1.4863432531593967,
+     "min": 1.478581220013708
+    },
+    {
+     "step": 109,
+     "id": "D-ft7-012",
+     "spread": 0.0021523400690293126,
+     "max": 1.4827882960413081,
+     "min": 1.4806359559722788
+    },
+    {
+     "step": 110,
+     "id": "D-ft6-015",
+     "spread": 0.0023588424687064347,
+     "max": 1.4830819404810436,
+     "min": 1.4807230980123371
+    },
+    {
+     "step": 111,
+     "id": "D-ft8-015",
+     "spread": 0.0014371276642413111,
+     "max": 1.4826742763962495,
+     "min": 1.4812371487320082
+    },
+    {
+     "step": 112,
+     "id": "D-ft5-015",
+     "spread": 0.0017553407007648847,
+     "max": 1.4819836325882496,
+     "min": 1.4802282918874847
+    },
+    {
+     "step": 113,
+     "id": "D-ft7-013",
+     "spread": 0.0011238959975412577,
+     "max": 1.4820082248115147,
+     "min": 1.4808843288139735
+    },
+    {
+     "step": 114,
+     "id": "D-ft8-016",
+     "spread": 0.0006905621113653115,
+     "max": 1.4819277108433735,
+     "min": 1.4812371487320082
+    },
+    {
+     "step": 115,
+     "id": "D-ft6-016",
+     "spread": 0.002322223388806499,
+     "max": 1.4827882960413081,
+     "min": 1.4804660726525016
+    },
+    {
+     "step": 116,
+     "id": "D-ft5-016",
+     "spread": 0.0017798281440219998,
+     "max": 1.4826742763962495,
+     "min": 1.4808944482522275
+    },
+    {
+     "step": 117,
+     "id": "D-ft7-014",
+     "spread": 0.0021523400690293126,
+     "max": 1.4827882960413081,
+     "min": 1.4806359559722788
+    },
+    {
+     "step": 118,
+     "id": "D-ft8-017",
+     "spread": 0.0023197565308787915,
+     "max": 1.4830819404810436,
+     "min": 1.4807621839501648
+    },
+    {
+     "step": 119,
+     "id": "D-ft6-017",
+     "spread": 0.0016678027184675592,
+     "max": 1.4826742763962495,
+     "min": 1.481006473677782
+    },
+    {
+     "step": 120,
+     "id": "D-ft5-017",
+     "spread": 0.001457943959181085,
+     "max": 1.48209389993146,
+     "min": 1.4806359559722788
+    },
+    {
+     "step": 121,
+     "id": "D-ft6-018",
+     "spread": 0.004609936162430772,
+     "max": 1.484304932735426,
+     "min": 1.4796949965729953
+    },
+    {
+     "step": 122,
+     "id": "D-ft7-015",
+     "spread": 0.003452012293069906,
+     "max": 1.4828649760109665,
+     "min": 1.4794129637178965
+    },
+    {
+     "step": 123,
+     "id": "D-ft8-018",
+     "spread": 0.0025727604435170637,
+     "max": 1.4827793008910213,
+     "min": 1.4802065404475042
+    },
+    {
+     "step": 124,
+     "id": "D-ft5-018",
+     "spread": 0.004675004547452399,
+     "max": 1.4828649760109665,
+     "min": 1.478189971463514
+    },
+    {
+     "step": 125,
+     "id": "D-ft5-019",
+     "spread": 0.0014098166208256213,
+     "max": 1.4819277108433735,
+     "min": 1.4805178942225479
+    },
+    {
+     "step": 126,
+     "id": "D-ft6-019",
+     "spread": 0.001808172669135466,
+     "max": 1.4827882960413081,
+     "min": 1.4809801233721727
+    },
+    {
+     "step": 127,
+     "id": "D-ft7-016",
+     "spread": 0.0029676682386174935,
+     "max": 1.4827882960413081,
+     "min": 1.4798206278026906
+    },
+    {
+     "step": 128,
+     "id": "D-ft8-019",
+     "spread": 0.0008840907863005842,
+     "max": 1.4819277108433735,
+     "min": 1.481043620057073
+    },
+    {
+     "step": 129,
+     "id": "D-ft7-017",
+     "spread": 0.0021523400690293126,
+     "max": 1.4827882960413081,
+     "min": 1.4806359559722788
+    },
+    {
+     "step": 130,
+     "id": "D-ft5-020",
+     "spread": 0.0015760057089120316,
+     "max": 1.48209389993146,
+     "min": 1.4805178942225479
+    },
+    {
+     "step": 131,
+     "id": "D-ft6-020",
+     "spread": 0.001808172669135466,
+     "max": 1.4827882960413081,
+     "min": 1.4809801233721727
+    },
+    {
+     "step": 132,
+     "id": "D-ft8-020",
+     "spread": 0.0016292941990714294,
+     "max": 1.4822652501713502,
+     "min": 1.4806359559722788
+    },
+    {
+     "step": 133,
+     "id": "D-ft5-021",
+     "spread": 0.0022851407801181,
+     "max": 1.4824366004112406,
+     "min": 1.4801514596311225
+    },
+    {
+     "step": 134,
+     "id": "D-ft6-021",
+     "spread": 0.0021874922288160903,
+     "max": 1.4830819404810436,
+     "min": 1.4808944482522275
+    },
+    {
+     "step": 135,
+     "id": "D-ft7-018",
+     "spread": 0.0020261120911433395,
+     "max": 1.4827882960413081,
+     "min": 1.4807621839501648
+    },
+    {
+     "step": 136,
+     "id": "D-ft8-021",
+     "spread": 0.002392546682568719,
+     "max": 1.4827882960413081,
+     "min": 1.4803957493587394
+    },
+    {
+     "step": 137,
+     "id": "D-ft5-022",
+     "spread": 0.0036233625329602503,
+     "max": 1.4830363262508568,
+     "min": 1.4794129637178965
+    },
+    {
+     "step": 138,
+     "id": "D-ft6-022",
+     "spread": 0.0014654721893547773,
+     "max": 1.4827882960413081,
+     "min": 1.4813228238519534
+    },
+    {
+     "step": 139,
+     "id": "D-ft7-019",
+     "spread": 0.0029676682386174935,
+     "max": 1.4827882960413081,
+     "min": 1.4798206278026906
+    },
+    {
+     "step": 140,
+     "id": "D-ft8-022",
+     "spread": 0.0018006444389617737,
+     "max": 1.4824366004112406,
+     "min": 1.4806359559722788
+    },
+    {
+     "step": 141,
+     "id": "D-ft5-023",
+     "spread": 0.001457943959181085,
+     "max": 1.48209389993146,
+     "min": 1.4806359559722788
+    },
+    {
+     "step": 142,
+     "id": "D-ft6-023",
+     "spread": 0.001415387772100818,
+     "max": 1.4827882960413081,
+     "min": 1.4813729082692073
+    },
+    {
+     "step": 143,
+     "id": "D-ft7-020",
+     "spread": 0.0018938477890806382,
+     "max": 1.4827882960413081,
+     "min": 1.4808944482522275
+    },
+    {
+     "step": 144,
+     "id": "D-ft8-023",
+     "spread": 0.0011655268932087015,
+     "max": 1.4819277108433735,
+     "min": 1.4807621839501648
+    },
+    {
+     "step": 145,
+     "id": "D-ft5-024",
+     "spread": 0.004202376857644907,
+     "max": 1.4832076764907471,
+     "min": 1.4790052996331022
+    },
+    {
+     "step": 146,
+     "id": "D-ft6-024",
+     "spread": 0.0017224975491902939,
+     "max": 1.4827882960413081,
+     "min": 1.4810657984921178
+    },
+    {
+     "step": 147,
+     "id": "D-ft7-021",
+     "spread": 0.0031093118132892172,
+     "max": 1.4825222755311858,
+     "min": 1.4794129637178965
+    },
+    {
+     "step": 148,
+     "id": "D-ft8-024",
+     "spread": 0.0007990923017830998,
+     "max": 1.4819277108433735,
+     "min": 1.4811286185415904
+    },
+    {
+     "step": 149,
+     "id": "D-ft5-025",
+     "spread": 0.0023129738237881448,
+     "max": 1.483075157773953,
+     "min": 1.4807621839501648
+    },
+    {
+     "step": 150,
+     "id": "D-ft7-022",
+     "spread": 0.0029676682386174935,
+     "max": 1.4827882960413081,
+     "min": 1.4798206278026906
+    },
+    {
+     "step": 151,
+     "id": "D-ft8-025",
+     "spread": 0.0021874922288160903,
+     "max": 1.4830819404810436,
+     "min": 1.4808944482522275
+    },
+    {
+     "step": 152,
+     "id": "D-ft6-025",
+     "spread": 0.001808172669135466,
+     "max": 1.4827882960413081,
+     "min": 1.4809801233721727
+    },
+    {
+     "step": 153,
+     "id": "D-ft6-026",
+     "spread": 0.0023588424687064347,
+     "max": 1.4830819404810436,
+     "min": 1.4807230980123371
+    },
+    {
+     "step": 154,
+     "id": "D-ft7-023",
+     "spread": 0.001539535965048744,
+     "max": 1.482179575051405,
+     "min": 1.4806400390863563
+    },
+    {
+     "step": 155,
+     "id": "D-ft5-026",
+     "spread": 0.0011655268932087015,
+     "max": 1.4819277108433735,
+     "min": 1.4807621839501648
+    },
+    {
+     "step": 156,
+     "id": "D-ft8-026",
+     "spread": 0.0018938477890806382,
+     "max": 1.4827882960413081,
+     "min": 1.4808944482522275
+    },
+    {
+     "step": 157,
+     "id": "D-ft6-027",
+     "spread": 0.002530192708596779,
+     "max": 1.4830819404810436,
+     "min": 1.4805517477724468
+    },
+    {
+     "step": 158,
+     "id": "D-ft7-024",
+     "spread": 0.0014654721893547773,
+     "max": 1.4827882960413081,
+     "min": 1.4813228238519534
+    },
+    {
+     "step": 159,
+     "id": "D-ft5-027",
+     "spread": 0.0019862806885335704,
+     "max": 1.4822145725760183,
+     "min": 1.4802282918874847
+    },
+    {
+     "step": 160,
+     "id": "D-ft8-027",
+     "spread": 0.0009212371655915597,
+     "max": 1.4819277108433735,
+     "min": 1.481006473677782
+    },
+    {
+     "step": 161,
+     "id": "D-ft5-028",
+     "spread": 0.003301373568111332,
+     "max": 1.483122001370802,
+     "min": 1.4798206278026906
+    },
+    {
+     "step": 162,
+     "id": "D-ft6-028",
+     "spread": 0.0017446759842352222,
+     "max": 1.4827882960413081,
+     "min": 1.481043620057073
+    },
+    {
+     "step": 163,
+     "id": "D-ft7-025",
+     "spread": 0.0036233625329602503,
+     "max": 1.4830363262508568,
+     "min": 1.4794129637178965
+    },
+    {
+     "step": 164,
+     "id": "D-ft8-028",
+     "spread": 0.002060071863951185,
+     "max": 1.4822666123114554,
+     "min": 1.4802065404475042
+    },
+    {
+     "step": 165,
+     "id": "D-ft6-029",
+     "spread": 0.0010294635794472207,
+     "max": 1.4822666123114554,
+     "min": 1.4812371487320082
+    },
+    {
+     "step": 166,
+     "id": "D-ft7-026",
+     "spread": 0.0020261120911433395,
+     "max": 1.4827882960413081,
+     "min": 1.4807621839501648
+    },
+    {
+     "step": 167,
+     "id": "D-ft8-029",
+     "spread": 0.002758981273994099,
+     "max": 1.4827882960413081,
+     "min": 1.480029314767314
+    },
+    {
+     "step": 168,
+     "id": "D-ft5-029",
+     "spread": 0.0011655268932087015,
+     "max": 1.4819277108433735,
+     "min": 1.4807621839501648
+    },
+    {
+     "step": 169,
+     "id": "D-ft5-030",
+     "spread": 0.003043481227406053,
+     "max": 1.4829506511309116,
+     "min": 1.4799071699035056
+    },
+    {
+     "step": 170,
+     "id": "D-ft6-030",
+     "spread": 0.0025951563136101807,
+     "max": 1.4834896045658377,
+     "min": 1.4808944482522275
+    },
+    {
+     "step": 171,
+     "id": "D-ft7-027",
+     "spread": 0.0009646047544418224,
+     "max": 1.4820082248115147,
+     "min": 1.481043620057073
+    },
+    {
+     "step": 172,
+     "id": "D-ft8-030",
+     "spread": 0.0024014102036267193,
+     "max": 1.482607950651131,
+     "min": 1.4802065404475042
+    },
+    {
+     "step": 173,
+     "id": "D-ft6-031",
+     "spread": 0.0014371276642413111,
+     "max": 1.4826742763962495,
+     "min": 1.4812371487320082
+    },
+    {
+     "step": 174,
+     "id": "D-ft5-031",
+     "spread": 0.001200813819337565,
+     "max": 1.4822666123114554,
+     "min": 1.4810657984921178
+    },
+    {
+     "step": 175,
+     "id": "D-ft7-028",
+     "spread": 0.0017446759842352222,
+     "max": 1.4827882960413081,
+     "min": 1.481043620057073
+    },
+    {
+     "step": 176,
+     "id": "D-ft8-031",
+     "spread": 0.0017798281440219998,
+     "max": 1.4826742763962495,
+     "min": 1.4808944482522275
+    },
+    {
+     "step": 177,
+     "id": "D-ft7-029",
+     "spread": 0.0017798281440219998,
+     "max": 1.4826742763962495,
+     "min": 1.4808944482522275
+    },
+    {
+     "step": 178,
+     "id": "D-ft7-030",
+     "spread": 0.0004764267015064938,
+     "max": 1.4819277108433735,
+     "min": 1.481451284141867
+    },
+    {
+     "step": 179,
+     "id": "D-ft7-031",
+     "spread": 0.0016678027184675592,
+     "max": 1.4826742763962495,
+     "min": 1.481006473677782
+    }
+   ],
+   "note_html": "Spread of each run in the final balancing and fine-tuning stage (log scale). Each point is a complete retrain of the tokenizer with slightly different language weights; the best one was kept."
+  },
+  "sensitivity": {
+   "rows": [
+    {
+     "variant": "Pinned snapshot (reported)",
+     "key": "pinned",
+     "desc": "TextExtracts plain text of the pinned revisions",
+     "per_lang": {
+      "en": 1.4814941740918437,
+      "hi": 1.4817393428606327,
+      "te": 1.481451284141867,
+      "ur": 1.4819277108433735
+     },
+     "words": {
+      "en": 11672,
+      "hi": 8187,
+      "te": 2453,
+      "ur": 3486
+     },
+     "spread": 0.0004764267015063925,
+     "score": 2098958.762886598,
+     "primary": true
+    },
+    {
+     "variant": "HTML prose, same revisions",
+     "key": "html_prose",
+     "desc": "paragraphs, headings and list items from the rendered HTML",
+     "per_lang": {
+      "en": 1.7850871175744272,
+      "hi": 1.4874347456598276,
+      "te": 1.482912937347437,
+      "ur": 1.5090191657271703
+     },
+     "words": {
+      "en": 14578,
+      "hi": 8237,
+      "te": 2458,
+      "ur": 3548
+     },
+     "spread": 0.3021741802269903,
+     "score": 3309.3495918440476,
+     "primary": false
+    },
+    {
+     "variant": "Whole page scrape, same revisions",
+     "key": "html_all",
+     "desc": "all visible text incl. infobox, tables, captions, references",
+     "per_lang": {
+      "en": 1.9323720418271877,
+      "hi": 1.912272487856265,
+      "te": 2.0690101757631822,
+      "ur": 1.7777777777777777
+     },
+     "words": {
+      "en": 45425,
+      "hi": 17087,
+      "te": 5405,
+      "ur": 5175
+     },
+     "spread": 0.29123239798540446,
+     "score": 3433.683913319687,
+     "primary": false
+    },
+    {
+     "variant": "Live article today",
+     "key": "current",
+     "desc": "current revisions fetched 2026-10-01; edited since pinning: en",
+     "revisions": {
+      "en": {
+       "revid": 1377844530,
+       "timestamp": "2026-10-01T13:29:36Z",
+       "same_as_pinned": false
+      },
+      "hi": {
+       "revid": 6622959,
+       "timestamp": "2026-10-01T06:56:37Z",
+       "same_as_pinned": true
+      },
+      "te": {
+       "revid": 4848340,
+       "timestamp": "2026-05-29T11:32:49Z",
+       "same_as_pinned": true
+      },
+      "ur": {
+       "revid": 11983228,
+       "timestamp": "2026-09-18T23:41:55Z",
+       "same_as_pinned": true
+      }
+     },
+     "per_lang": {
+      "en": 1.4815798492117889,
+      "hi": 1.4817393428606327,
+      "te": 1.481451284141867,
+      "ur": 1.4819277108433735
+     },
+     "words": {
+      "en": 11672,
+      "hi": 8187,
+      "te": 2453,
+      "ur": 3486
+     },
+     "spread": 0.0004764267015063925,
+     "score": 2098958.762886598,
+     "primary": false
+    },
+    {
+     "variant": "Live article, '== Heading ==' format",
+     "key": "current_wiki",
+     "desc": "TextExtracts default section format, as returned by the `wikipedia` Python package; headings become '== Title ==' so each '==' counts as a word",
+     "revisions": {
+      "en": {
+       "revid": 1377844530,
+       "timestamp": "2026-10-01T13:29:36Z",
+       "same_as_pinned": false
+      },
+      "hi": {
+       "revid": 6622959,
+       "timestamp": "2026-10-01T06:56:37Z",
+       "same_as_pinned": true
+      },
+      "te": {
+       "revid": 4848340,
+       "timestamp": "2026-05-29T11:32:49Z",
+       "same_as_pinned": true
+      },
+      "ur": {
+       "revid": 11983228,
+       "timestamp": "2026-09-18T23:41:55Z",
+       "same_as_pinned": true
+      }
+     },
+     "per_lang": {
+      "en": 1.4906446674604525,
+      "hi": 1.4891423025597477,
+      "te": 1.4998008761449622,
+      "ur": 1.4891922639362913
+     },
+     "words": {
+      "en": 11758,
+      "hi": 8243,
+      "te": 2511,
+      "ur": 3516
+     },
+     "spread": 0.010658573585214501,
+     "score": 93821.1846083413,
+     "primary": false
+    }
+   ],
+   "note_html": "The same tokenizer.json measured on other versions of the same pages. The reported score uses the pinned snapshots. Today's live pages give the same result in the same format, but extracting the text differently changes the fertilities by up to 0.59 and the score by one to three orders of magnitude, so the score is only meaningful together with the exact text it was measured on (downloadable at the top of the page)."
+  }
+ },
+ "repro": {
+  "blocks": [
+   {
+    "title": "Check the score with the files from this page",
+    "html": "<p>Download <code>tokenizer.json</code> and the four evaluation texts (top of the page) into one folder and run the snippet shown there. The texts' SHA-256 values (as printed by <code>sha256sum</code>) are in the table above and in <code>data/eval/manifest.json</code>.</p>"
+   },
+   {
+    "title": "Check the score from the repository",
+    "code": "python verify/verify_python.py tokenizer/tokenizer.json data/eval en,hi,te,ur"
+   },
+   {
+    "title": "Full verification (Python + independent JavaScript + Unicode checks)",
+    "code": "python verify/run_verification.py\npython -m pytest -q tests"
+   },
+   {
+    "title": "Retrain the released tokenizer from scratch",
+    "code": "python src/fetch_external.py en hi te ur     # extra Wikipedia text (HF wikimedia/wikipedia 20231101)\npython src/make_final.py                    # trains with tokenizer/final_config.json and saves tokenizer.json"
+   },
+   {
+    "title": "Software used",
+    "html": "<p>Python 3.14.4 (Unicode 16.0.0), Hugging Face tokenizers 0.23.1, Node v22.15.0 (ICU Unicode 16.0). tokenizer.json SHA-256 <code>45aa8369f867472f8686b48025354fbfc0d9b53d6f7573d021aaaac815179dc4</code>. Extra training text: <code>wikimedia/wikipedia</code> 20231101 dump (dataset revision <code>b04c8d1ceb2f5cd4588862100d08de323dccfbaa</code>).</p>"
+   }
+  ]
+ }
+}

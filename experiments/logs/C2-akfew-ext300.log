@@ -1,0 +1,13 @@
+== C2-akfew-ext300 langs=['en', 'hi', 'te', 'ur'] cfg={"alpha_min":30,"akshara":true,"akshara_min":3000,"ext_words":300000} eval_w=300.0 ext_w=1.0
+  C2-akfew-ext300-001 en=1.4356 hi=1.4773 te=1.4766 ur=1.5135 spread=0.07791 score=12835.3 akv=0 chk=ok  mult={'en': 1.057, 'hi': 0.69, 'te': 2.043, 'ur': 0.671}
+  C2-akfew-ext300-002 en=1.6304 hi=1.4580 te=1.0628 ur=1.4664 spread=0.56762 score=1761.8 akv=0 chk=ok  mult={'en': 0.914, 'hi': 0.695, 'te': 2.051, 'ur': 0.768}
+  C2-akfew-ext300-003 en=1.4771 hi=1.4632 te=1.4081 ur=1.4857 spread=0.07759 score=12889.1 akv=0 chk=ok  mult={'en': 1.026, 'hi': 0.685, 'te': 2.029, 'ur': 0.702}
+  C2-akfew-ext300-004 en=1.4346 hi=1.4560 te=1.5430 ur=1.4552 spread=0.10838 score=9226.9 akv=0 chk=ok  mult={'en': 1.049, 'hi': 0.695, 'te': 1.828, 'ur': 0.751}
+  C2-akfew-ext300-005 en=1.4375 hi=1.4588 te=1.5104 ur=1.4814 spread=0.07294 score=13710.2 akv=0 chk=ok  mult={'en': 1.027, 'hi': 0.684, 'te': 1.991, 'ur': 0.714}
+  C2-akfew-ext300-006 en=1.5088 hi=1.4707 te=1.3290 ur=1.4796 spread=0.17984 score=5560.5 akv=0 chk=ok  mult={'en': 1.012, 'hi': 0.677, 'te': 2.031, 'ur': 0.718}
+  C2-akfew-ext300-007 en=1.4713 hi=1.4599 te=1.4293 ur=1.4802 spread=0.05094 score=19632.4 akv=0 chk=ok  mult={'en': 1.019, 'hi': 0.682, 'te': 2.01, 'ur': 0.716}
+  C2-akfew-ext300-008 en=1.4436 hi=1.4595 te=1.4982 ur=1.4762 spread=0.05454 score=18335.3 akv=0 chk=ok  mult={'en': 1.021, 'hi': 0.681, 'te': 1.985, 'ur': 0.725}
+  C2-akfew-ext300-009 en=1.4560 hi=1.4602 te=1.4668 ur=1.4782 spread=0.02215 score=45147.0 akv=0 chk=ok  mult={'en': 1.02, 'hi': 0.681, 'te': 1.998, 'ur': 0.72}
+  C2-akfew-ext300-010 en=1.4614 hi=1.4589 te=1.4570 ur=1.4768 spread=0.01977 score=50574.6 akv=0 chk=ok  mult={'en': 1.018, 'hi': 0.68, 'te': 1.996, 'ur': 0.723}
+  BEST C2-akfew-ext300-011 en=1.4614 hi=1.4589 te=1.4570 ur=1.4768 spread=0.01977 score=50574.6 akv=0 chk=ok | heldout en=2.110 hi=2.013 te=2.849 ur=1.964
+== DONE C2-akfew-ext300 mult={"en": 1.0177353759839871, "hi": 0.6804637166831645, "te": 1.9964747638632954, "ur": 0.7232631382944781}

@@ -1,0 +1,63 @@
+{
+ "implementation": "verify/verify_js.mjs + site/js/bpe.js (independent JS BPE)",
+ "node": "v22.15.0",
+ "icu_unicode": "16.0",
+ "tokenizer_sha256": "45aa8369f867472f8686b48025354fbfc0d9b53d6f7573d021aaaac815179dc4",
+ "vocab_size": 10000,
+ "added_tokens": 0,
+ "vocab_ids_contiguous": true,
+ "n_merges": 9634,
+ "merges_valid": true,
+ "languages": {
+  "en": {
+   "clean_text_sha256": "7f4ff0cc01f70301f793fdbf5e475435303264416f3fee4d82b2e7f2a1f55513",
+   "sha_matches_manifest": true,
+   "words": 11672,
+   "tokens": 17292,
+   "fertility": 1.4814941740918437,
+   "unk_tokens": 0,
+   "grapheme_boundary_violations": 0,
+   "roundtrip_exact": true
+  },
+  "hi": {
+   "clean_text_sha256": "e4efcc3f96a0c95208c28b6a3654c5dd8feb2c055cb8ac05dfce7f96829fa269",
+   "sha_matches_manifest": true,
+   "words": 8187,
+   "tokens": 12131,
+   "fertility": 1.4817393428606327,
+   "unk_tokens": 0,
+   "grapheme_boundary_violations": 0,
+   "roundtrip_exact": true
+  },
+  "te": {
+   "clean_text_sha256": "597358778abc5261f257adacd2c2293418ba37b2a19322efdf5f82b5a14c696d",
+   "sha_matches_manifest": true,
+   "words": 2453,
+   "tokens": 3634,
+   "fertility": 1.481451284141867,
+   "unk_tokens": 0,
+   "grapheme_boundary_violations": 0,
+   "roundtrip_exact": true
+  },
+  "ur": {
+   "clean_text_sha256": "a223715565b8e227841f64d230f2a665f4a7a64e4d649cdb60a54fb3e3f269a1",
+   "sha_matches_manifest": true,
+   "words": 3486,
+   "tokens": 5166,
+   "fertility": 1.4819277108433735,
+   "unk_tokens": 0,
+   "grapheme_boundary_violations": 0,
+   "roundtrip_exact": true
+  }
+ },
+ "min": {
+  "lang": "te",
+  "fertility": 1.481451284141867
+ },
+ "max": {
+  "lang": "ur",
+  "fertility": 1.4819277108433735
+ },
+ "spread": 0.0004764267015064938,
+ "score": 2098958.7628861517
+}

@@ -1,0 +1,144 @@
+{
+ "generated_utc": "2026-10-01T14:05:27+00:00",
+ "variants": [
+  {
+   "variant": "Pinned snapshot (reported)",
+   "key": "pinned",
+   "desc": "TextExtracts plain text of the pinned revisions",
+   "per_lang": {
+    "en": 1.4814941740918437,
+    "hi": 1.4817393428606327,
+    "te": 1.481451284141867,
+    "ur": 1.4819277108433735
+   },
+   "words": {
+    "en": 11672,
+    "hi": 8187,
+    "te": 2453,
+    "ur": 3486
+   },
+   "spread": 0.0004764267015063925,
+   "score": 2098958.762886598
+  },
+  {
+   "variant": "HTML prose, same revisions",
+   "key": "html_prose",
+   "desc": "paragraphs, headings and list items from the rendered HTML",
+   "per_lang": {
+    "en": 1.7850871175744272,
+    "hi": 1.4874347456598276,
+    "te": 1.482912937347437,
+    "ur": 1.5090191657271703
+   },
+   "words": {
+    "en": 14578,
+    "hi": 8237,
+    "te": 2458,
+    "ur": 3548
+   },
+   "spread": 0.3021741802269903,
+   "score": 3309.3495918440476
+  },
+  {
+   "variant": "Whole page scrape, same revisions",
+   "key": "html_all",
+   "desc": "all visible text incl. infobox, tables, captions, references",
+   "per_lang": {
+    "en": 1.9323720418271877,
+    "hi": 1.912272487856265,
+    "te": 2.0690101757631822,
+    "ur": 1.7777777777777777
+   },
+   "words": {
+    "en": 45425,
+    "hi": 17087,
+    "te": 5405,
+    "ur": 5175
+   },
+   "spread": 0.29123239798540446,
+   "score": 3433.683913319687
+  },
+  {
+   "variant": "Live article today",
+   "key": "current",
+   "desc": "current revisions fetched 2026-10-01; edited since pinning: en",
+   "revisions": {
+    "en": {
+     "revid": 1377844530,
+     "timestamp": "2026-10-01T13:29:36Z",
+     "same_as_pinned": false
+    },
+    "hi": {
+     "revid": 6622959,
+     "timestamp": "2026-10-01T06:56:37Z",
+     "same_as_pinned": true
+    },
+    "te": {
+     "revid": 4848340,
+     "timestamp": "2026-05-29T11:32:49Z",
+     "same_as_pinned": true
+    },
+    "ur": {
+     "revid": 11983228,
+     "timestamp": "2026-09-18T23:41:55Z",
+     "same_as_pinned": true
+    }
+   },
+   "per_lang": {
+    "en": 1.4815798492117889,
+    "hi": 1.4817393428606327,
+    "te": 1.481451284141867,
+    "ur": 1.4819277108433735
+   },
+   "words": {
+    "en": 11672,
+    "hi": 8187,
+    "te": 2453,
+    "ur": 3486
+   },
+   "spread": 0.0004764267015063925,
+   "score": 2098958.762886598
+  },
+  {
+   "variant": "Live article, '== Heading ==' format",
+   "key": "current_wiki",
+   "desc": "TextExtracts default section format, as returned by the `wikipedia` Python package; headings become '== Title ==' so each '==' counts as a word",
+   "revisions": {
+    "en": {
+     "revid": 1377844530,
+     "timestamp": "2026-10-01T13:29:36Z",
+     "same_as_pinned": false
+    },
+    "hi": {
+     "revid": 6622959,
+     "timestamp": "2026-10-01T06:56:37Z",
+     "same_as_pinned": true
+    },
+    "te": {
+     "revid": 4848340,
+     "timestamp": "2026-05-29T11:32:49Z",
+     "same_as_pinned": true
+    },
+    "ur": {
+     "revid": 11983228,
+     "timestamp": "2026-09-18T23:41:55Z",
+     "same_as_pinned": true
+    }
+   },
+   "per_lang": {
+    "en": 1.4906446674604525,
+    "hi": 1.4891423025597477,
+    "te": 1.4998008761449622,
+    "ur": 1.4891922639362913
+   },
+   "words": {
+    "en": 11758,
+    "hi": 8243,
+    "te": 2511,
+    "ur": 3516
+   },
+   "spread": 0.010658573585214501,
+   "score": 93821.1846083413
+  }
+ ]
+}

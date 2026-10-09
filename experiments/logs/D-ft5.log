@@ -1,0 +1,32 @@
+start D-ft5-001 en=1.4819 hi=1.4803 te=1.4819 ur=1.4819 spread=0.00165 score=604556.0 akv=0 chk=ok
+  D-ft5-002 en=1.4827 hi=1.4820 te=1.4782 ur=1.4819 spread=0.00450 score=222041.9 akv=0 chk=ok sigma=0.0015
+  D-ft5-003 en=1.4810 hi=1.4825 te=1.4810 ur=1.4828 spread=0.00181 score=553044.5 akv=0 chk=ok sigma=0.0015
+  D-ft5-004 en=1.4836 hi=1.4811 te=1.4770 ur=1.4828 spread=0.00658 score=151897.2 akv=0 chk=ok sigma=0.0015
+* D-ft5-005 en=1.4822 hi=1.4810 te=1.4806 ur=1.4819 spread=0.00154 score=647828.2 akv=0 chk=ok sigma=0.0009
+  D-ft5-006 en=1.4822 hi=1.4810 te=1.4802 ur=1.4828 spread=0.00256 score=390624.4 akv=0 chk=ok sigma=0.0009
+  D-ft5-007 en=1.4817 hi=1.4797 te=1.4831 ur=1.4819 spread=0.00342 score=292478.0 akv=0 chk=ok sigma=0.0009
+* D-ft5-008 en=1.4818 hi=1.4804 te=1.4815 ur=1.4819 spread=0.00153 score=652757.9 akv=0 chk=ok sigma=0.0009
+  D-ft5-009 en=1.4810 hi=1.4808 te=1.4835 ur=1.4819 spread=0.00273 score=366646.8 akv=0 chk=ok sigma=0.0009
+  D-ft5-010 en=1.4809 hi=1.4817 te=1.4831 ur=1.4831 spread=0.00219 score=457144.5 akv=0 chk=ok sigma=0.0009
+* D-ft5-011 en=1.4812 hi=1.4811 te=1.4823 ur=1.4819 spread=0.00114 score=878739.4 akv=0 chk=ok sigma=0.0009
+  D-ft5-012 en=1.4813 hi=1.4817 te=1.4810 ur=1.4828 spread=0.00174 score=573172.3 akv=0 chk=ok sigma=0.0009
+  D-ft5-013 en=1.4812 hi=1.4806 te=1.4835 ur=1.4819 spread=0.00285 score=350930.7 akv=0 chk=ok sigma=0.0009
+  D-ft5-014 en=1.4786 hi=1.4830 te=1.4863 ur=1.4819 spread=0.00776 score=128832.2 akv=0 chk=ok sigma=0.0009
+  D-ft5-015 en=1.4818 hi=1.4820 te=1.4802 ur=1.4819 spread=0.00176 score=569690.0 akv=0 chk=ok sigma=0.00054
+  D-ft5-016 en=1.4809 hi=1.4815 te=1.4827 ur=1.4819 spread=0.00178 score=561852.0 akv=0 chk=ok sigma=0.00054
+  D-ft5-017 en=1.4821 hi=1.4808 te=1.4806 ur=1.4819 spread=0.00146 score=685897.4 akv=0 chk=ok sigma=0.00054
+  D-ft5-018 en=1.4829 hi=1.4819 te=1.4782 ur=1.4819 spread=0.00468 score=213903.5 akv=0 chk=ok sigma=0.000324
+  D-ft5-019 en=1.4818 hi=1.4805 te=1.4819 ur=1.4819 spread=0.00141 score=709312.1 akv=0 chk=ok sigma=0.000324
+  D-ft5-020 en=1.4821 hi=1.4805 te=1.4815 ur=1.4819 spread=0.00158 score=634515.5 akv=0 chk=ok sigma=0.000324
+  D-ft5-021 en=1.4824 hi=1.4802 te=1.4806 ur=1.4819 spread=0.00229 score=437609.8 akv=0 chk=ok sigma=0.0002
+  D-ft5-022 en=1.4830 hi=1.4803 te=1.4794 ur=1.4819 spread=0.00362 score=275986.7 akv=0 chk=ok sigma=0.0002
+  D-ft5-023 en=1.4821 hi=1.4808 te=1.4806 ur=1.4819 spread=0.00146 score=685897.4 akv=0 chk=ok sigma=0.0002
+  D-ft5-024 en=1.4832 hi=1.4804 te=1.4790 ur=1.4819 spread=0.00420 score=237960.6 akv=0 chk=ok sigma=0.0002
+  D-ft5-025 en=1.4816 hi=1.4808 te=1.4810 ur=1.4831 spread=0.00231 score=432343.8 akv=0 chk=ok sigma=0.0002
+  D-ft5-026 en=1.4819 hi=1.4808 te=1.4810 ur=1.4819 spread=0.00117 score=857981.1 akv=0 chk=ok sigma=0.0002
+  D-ft5-027 en=1.4821 hi=1.4808 te=1.4802 ur=1.4822 spread=0.00199 score=503453.5 akv=0 chk=ok sigma=0.0002
+  D-ft5-028 en=1.4831 hi=1.4799 te=1.4798 ur=1.4819 spread=0.00330 score=302904.2 akv=0 chk=ok sigma=0.0002
+  D-ft5-029 en=1.4818 hi=1.4808 te=1.4815 ur=1.4819 spread=0.00117 score=857981.1 akv=0 chk=ok sigma=0.0002
+  D-ft5-030 en=1.4830 hi=1.4799 te=1.4802 ur=1.4819 spread=0.00304 score=328571.1 akv=0 chk=ok sigma=0.0002
+  D-ft5-031 en=1.4811 hi=1.4814 te=1.4823 ur=1.4819 spread=0.00120 score=832768.6 akv=0 chk=ok sigma=0.0002
+== DONE D-ft5 best_spread=0.0011379937698650089 mult={"en": 1.0579574697389489, "hi": 0.6904231750285954, "te": 2.0430905741712366, "ur": 0.670083323822644}

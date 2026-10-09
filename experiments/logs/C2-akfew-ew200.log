@@ -1,0 +1,13 @@
+== C2-akfew-ew200 langs=['en', 'hi', 'te', 'ur'] cfg={"alpha_min":30,"akshara":true,"akshara_min":3000} eval_w=200.0 ext_w=1.0
+  C2-akfew-ew200-001 en=1.5175 hi=1.4867 te=1.5092 ur=1.4587 spread=0.05879 score=17010.9 akv=0 chk=ok  mult={'en': 1.057, 'hi': 0.69, 'te': 2.043, 'ur': 0.671}
+  C2-akfew-ew200-002 en=1.4814 hi=1.5231 te=1.5096 ur=1.5261 spread=0.04470 score=22373.4 akv=0 chk=ok  mult={'en': 1.154, 'hi': 0.675, 'te': 2.165, 'ur': 0.593}
+  C2-akfew-ew200-003 en=1.5259 hi=1.5051 te=1.4448 ur=1.5032 spread=0.08111 score=12328.6 akv=0 chk=ok  mult={'en': 1.082, 'hi': 0.688, 'te': 2.177, 'ur': 0.617}
+  C2-akfew-ew200-004 en=1.4957 hi=1.5152 te=1.4929 ur=1.5152 spread=0.02234 score=44760.4 akv=0 chk=ok  mult={'en': 1.129, 'hi': 0.68, 'te': 2.166, 'ur': 0.602}
+  C2-akfew-ew200-005 en=1.4913 hi=1.5079 te=1.5149 ur=1.5080 spread=0.02353 score=42493.7 akv=0 chk=ok  mult={'en': 1.126, 'hi': 0.686, 'te': 2.118, 'ur': 0.611}
+  C2-akfew-ew200-006 en=1.4966 hi=1.5134 te=1.4949 ur=1.5123 spread=0.01847 score=54139.9 akv=0 chk=ok  mult={'en': 1.125, 'hi': 0.682, 'te': 2.155, 'ur': 0.605}
+  C2-akfew-ew200-007 en=1.4983 hi=1.5107 te=1.4953 ur=1.5100 spread=0.01538 score=65037.2 akv=0 chk=ok  mult={'en': 1.12, 'hi': 0.684, 'te': 2.147, 'ur': 0.608}
+  C2-akfew-ew200-008 en=1.4981 hi=1.5079 te=1.4998 ur=1.5080 spread=0.00992 score=100837.1 akv=0 chk=ok  mult={'en': 1.116, 'hi': 0.686, 'te': 2.134, 'ur': 0.612}
+  C2-akfew-ew200-009 en=1.4999 hi=1.5054 te=1.4990 ur=1.5046 spread=0.00645 score=154928.1 akv=0 chk=ok  mult={'en': 1.11, 'hi': 0.688, 'te': 2.128, 'ur': 0.615}
+  C2-akfew-ew200-010 en=1.5014 hi=1.5029 te=1.4994 ur=1.5034 spread=0.00405 score=246679.9 akv=0 chk=ok  mult={'en': 1.106, 'hi': 0.69, 'te': 2.122, 'ur': 0.617}
+  BEST C2-akfew-ew200-011 en=1.5014 hi=1.5029 te=1.4994 ur=1.5034 spread=0.00405 score=246679.9 akv=0 chk=ok | heldout en=2.048 hi=1.974 te=2.673 ur=1.917
+== DONE C2-akfew-ew200 mult={"en": 1.1064488800909236, "hi": 0.6900893311751447, "te": 2.121695521480713, "ur": 0.6172772533885281}

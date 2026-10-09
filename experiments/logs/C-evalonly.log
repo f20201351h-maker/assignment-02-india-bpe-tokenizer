@@ -1,0 +1,15 @@
+== C-evalonly langs=['en', 'hi', 'te', 'ur'] cfg={"akshara":true} eval_w=1.0 ext_w=0.0
+  C-evalonly-001 en=1.4358 hi=1.5025 te=1.3343 ur=1.6635 spread=0.32923 score=3037.4 akv=0 chk=ok  mult={'en': 1.065, 'hi': 0.686, 'te': 2.06, 'ur': 0.664}
+  C-evalonly-002 en=1.4348 hi=1.3037 te=1.9914 ur=1.2215 spread=0.76998 score=1298.7 akv=0 chk=ok  mult={'en': 0.908, 'hi': 0.746, 'te': 1.188, 'ur': 1.242}
+  C-evalonly-003 en=1.4370 hi=1.4626 te=1.4525 ur=1.4983 spread=0.06125 score=16326.5 akv=0 chk=ok  mult={'en': 0.988, 'hi': 0.695, 'te': 1.885, 'ur': 0.773}
+  C-evalonly-004 en=1.6271 hi=1.4629 te=1.0000 ur=1.4997 spread=0.62706 score=1594.8 akv=0 chk=ok  mult={'en': 0.94, 'hi': 0.7, 'te': 1.889, 'ur': 0.804}
+  C-evalonly-005 en=1.4366 hi=1.4624 te=1.4558 ur=1.4966 spread=0.05996 score=16678.6 akv=0 chk=ok  mult={'en': 0.964, 'hi': 0.698, 'te': 1.887, 'ur': 0.788}
+  C-evalonly-006 en=1.6278 hi=1.4627 te=1.0000 ur=1.4977 spread=0.62783 score=1592.8 akv=0 chk=ok  mult={'en': 0.933, 'hi': 0.701, 'te': 1.892, 'ur': 0.808}
+  C-evalonly-007 en=1.4364 hi=1.4623 te=1.4562 ur=1.4977 spread=0.06128 score=16319.6 akv=0 chk=ok  mult={'en': 0.949, 'hi': 0.699, 'te': 1.889, 'ur': 0.798}
+  C-evalonly-008 en=1.4357 hi=1.4627 te=1.4582 ur=1.4957 spread=0.06004 score=16655.8 akv=0 chk=ok  mult={'en': 0.956, 'hi': 0.698, 'te': 1.888, 'ur': 0.793}
+  C-evalonly-009 en=1.4369 hi=1.4621 te=1.4554 ur=1.4963 spread=0.05941 score=16831.2 akv=0 chk=ok  mult={'en': 0.959, 'hi': 0.698, 'te': 1.888, 'ur': 0.791}
+  C-evalonly-010 en=1.4369 hi=1.4629 te=1.4533 ur=1.4974 spread=0.06048 score=16535.7 akv=0 chk=ok  mult={'en': 0.952, 'hi': 0.699, 'te': 1.889, 'ur': 0.795}
+  C-evalonly-011 en=1.4366 hi=1.4628 te=1.4545 ur=1.4971 spread=0.06053 score=16520.5 akv=0 chk=ok  mult={'en': 0.953, 'hi': 0.699, 'te': 1.89, 'ur': 0.794}
+  C-evalonly-012 en=1.4357 hi=1.4628 te=1.4578 ur=1.4980 spread=0.06225 score=16064.7 akv=0 chk=ok  mult={'en': 0.956, 'hi': 0.699, 'te': 1.889, 'ur': 0.792}
+  BEST C-evalonly-013 en=1.4369 hi=1.4621 te=1.4554 ur=1.4963 spread=0.05941 score=16831.2 akv=0 chk=ok | heldout en=2.146 hi=2.041 te=3.116 ur=2.025
+== DONE C-evalonly mult={"en": 0.9587373386496398, "hi": 0.6983086531488132, "te": 1.8882165264453001, "ur": 0.7910449098342258}

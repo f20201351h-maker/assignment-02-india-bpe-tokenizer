@@ -1,0 +1,11 @@
+# Default: LF in the repository and in the working tree (later rules override earlier ones).
+*                       text=auto eol=lf
+# Byte-exact files: their SHA-256 hashes are part of the evidence, so Git must never convert them.
+data/**                 -text
+tokenizer/**            -text
+site/tokenizer.json     -text
+site/tokens.tsv         -text
+site/data/**            -text
+verify/out/**           -text
+experiments/ledger/**   -text
+experiments/results.jsonl -text
